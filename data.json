@@ -1,0 +1,6654 @@
+{
+    "last_stop": 685,
+    "data": [
+        {
+            "title": "YJHD - Dilliwaali Girlfriend.mp3",
+            "original_name": "Dilliwaali Girlfriend",
+            "artists_name": [
+                "Arijit Singh",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "year": "2013"
+        },
+        {
+            "title": "YJHD - Ghagra.mp3",
+            "original_name": "Ghagra",
+            "artists_name": [
+                "Rekha Bhardwaj",
+                "Vishal Dadlani"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "year": "2013"
+        },
+        {
+            "title": "YJHD - Kabira.mp3",
+            "original_name": "Kabira",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Rekha Bhardwaj",
+                "Tochi Raina"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "year": "2013"
+        },
+        {
+            "title": "YJHD - Ilahi.mp3",
+            "original_name": "Ilahi",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "year": "2013"
+        },
+        {
+            "title": "SanR - Hua Hain Aaj Pehli Baar.mp3",
+            "original_name": "Hua Hain Aaj Pehli Baar",
+            "artists_name": [
+                "Amaal Mallik",
+                "Armaan Malik",
+                "Palak Muchhal"
+            ],
+            "album": "Sanam Re",
+            "year": "2016"
+        },
+        {
+            "title": "SanR - Tere Liye.mp3",
+            "original_name": "Tere Liye",
+            "artists_name": [
+                "Ankit Tiwari",
+                "Mithoon"
+            ],
+            "album": "Sanam Re",
+            "year": "2016"
+        },
+        {
+            "title": "SanR - Sanam Re.mp3",
+            "original_name": "Sanam Re",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Sanam Re",
+            "year": "2016"
+        },
+        {
+            "title": "STK - Haal E Dil (Female).mp3",
+            "original_name": "Haal - E - Dil",
+            "artists_name": [
+                "Neeti Mohan"
+            ],
+            "album": "Sanam Teri Kasam",
+            "year": "2016"
+        },
+        {
+            "title": "STK - Haal E Dil (Male).mp3",
+            "original_name": "Haal - E - Dil (Male)",
+            "artists_name": [
+                "Sreerama Chandra"
+            ],
+            "album": "Sanam Teri Kasam",
+            "year": "2016"
+        },
+        {
+            "title": "STK - Bewajah.mp3",
+            "original_name": "Bewajah",
+            "artists_name": [
+                "Himesh Reshammiya"
+            ],
+            "album": "Sanam Teri Kasam",
+            "year": "2016"
+        },
+        {
+            "title": "STK - Tera Chehra.mp3",
+            "original_name": "Tera Chehra",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Sanam Teri Kasam",
+            "year": "2016"
+        },
+        {
+            "title": "STK - Sanam Teri Kasam.mp3",
+            "original_name": "Sanam Teri Kasam",
+            "artists_name": [
+                "Harshvardhan Mawra",
+                "Himesh Reshammiya",
+                "Ankit Tiwari"
+            ],
+            "album": "Sanam Teri Kasam",
+            "year": "2016"
+        },
+        {
+            "title": "RamL - Nagada Sang Dol.mp3",
+            "original_name": "Nagada Sang Dhol",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Osman Mir"
+            ],
+            "album": "Goliyon Ki Raasleela Ram-Leela",
+            "year": "2013"
+        },
+        {
+            "title": "Raz - Jo Bhi Kasmein.mp3",
+            "original_name": "Jo Bhi Kasmein",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Raaz",
+            "year": "2002"
+        },
+        {
+            "title": "Raz - Tum Agar Samne.mp3",
+            "original_name": "Tum Agar Saamne",
+            "artists_name": [
+                "Abhijeet Bhattacharya",
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Raaz",
+            "year": "2002"
+        },
+        {
+            "title": "KKHH - Saajan Gee Ghar Aaye.mp3",
+            "original_name": "Saajanji Ghar Aaye",
+            "artists_name": [
+                "Kumar Sanu",
+                "Alka Yagnik",
+                "Kavita Krishnamurthy"
+            ],
+            "album": "Kuch Kuch Hota Hai",
+            "year": "1998"
+        },
+        {
+            "title": "HSDK - Samjhawan.mp3",
+            "original_name": "Samjhawan",
+            "artists_name": [
+                "Arijit Singh",
+                "Shreya Ghoshal"
+            ],
+            "album": "Humpty Sharma Ki Dulhania",
+            "year": "2014"
+        },
+        {
+            "title": "HAHk - Pehla Pehla Pyar.mp3",
+            "original_name": "Pehla Pehla Pyar",
+            "artists_name": [
+                "S. P. Balasubrahmanyam"
+            ],
+            "album": "Hum Aapke Hain Koun..!",
+            "year": "1994"
+        },
+        {
+            "title": "HSDK - Saturday Saturday.mp3",
+            "original_name": "Saturday Saturday",
+            "artists_name": [
+                "Badshah",
+                "Indeep Bakshi"
+            ],
+            "album": "Humpty Sharma Ki Dulhania",
+            "year": "2014"
+        },
+        {
+            "title": "D2 - Touch Me.mp3",
+            "original_name": "Touch Me",
+            "artists_name": [
+                "KK",
+                "Alisha Chinai"
+            ],
+            "album": "Dhoom 2",
+            "year": "2006"
+        },
+        {
+            "title": "D2 - Dhoom Again.mp3",
+            "original_name": "Dhoom Again",
+            "artists_name": [
+                "Vishal Dadlani"
+            ],
+            "album": "Dhoom 2",
+            "year": "2006"
+        },
+        {
+            "title": "D2 - My Name Is Ali(Excuse Me).mp3",
+            "original_name": "My Name Is Ali",
+            "artists_name": [
+                "Bipasha Basu",
+                "Sonu Nigam"
+            ],
+            "album": "Dhoom 2",
+            "year": "2006"
+        },
+        {
+            "title": "D2 - Dilbara-Dilbara.mp3",
+            "original_name": "Dilbara",
+            "artists_name": [
+                "Abhijeet Bhattacharya",
+                "Sowmya Raoh"
+            ],
+            "album": "Dhoom 2",
+            "year": "2006"
+        },
+        {
+            "title": "ChC - Hawa Hawa.mp3",
+            "original_name": "Hawa Hawa",
+            "artists_name": [
+                "Hasan Jahangir",
+                "Neeraj Shridhar"
+            ],
+            "album": "Chaalis Chauraasi",
+            "year": "2012"
+        },
+        {
+            "title": "DORA - Jeene ka sahi dhang.mp3",
+            "original_name": "Jeene Ka Sahi Dhang",
+            "artists_name": [
+                "Doraemon"
+            ],
+            "album": "Doraemon",
+            "year": "1979"
+        },
+        {
+            "title": "DNLS - Shounen-Ki.mp3",
+            "original_name": "Shounenki",
+            "artists_name": [
+                "Tetsuya Takeda"
+            ],
+            "album": "Doraemon",
+            "year": "1979"
+        },
+        {
+            "title": "DORA - Zindgi sawar du.mp3",
+            "original_name": "Zindagi Sawar Doon",
+            "artists_name": [
+                "Doraemon"
+            ],
+            "album": "Doraemon",
+            "year": "1979"
+        },
+        {
+            "title": "DORA - Apne dil mein dekho.mp3",
+            "original_name": "Apne Dil Me Dekho",
+            "artists_name": [
+                "Doraemon"
+            ],
+            "album": "Doraemon",
+            "year": "1979"
+        },
+        {
+            "title": "F7 - See You Again.mp3",
+            "original_name": "See You Again",
+            "artists_name": [
+                "Wiz Khalifa"
+            ],
+            "album": "Furious 7",
+            "year": "2015"
+        },
+        {
+            "title": "F&F - Tokyo Drift.mp3",
+            "original_name": "Tokyo Drift",
+            "artists_name": [
+                "Teriyaki Boyz"
+            ],
+            "album": "The Fast and the Furious: Tokyo Drift",
+            "year": "2006"
+        },
+        {
+            "title": "Marshmello - Happier.mp3",
+            "original_name": "Happier",
+            "artists_name": [
+                "Marshmello",
+                "Bastille"
+            ],
+            "album": "Marshmello",
+            "year": "2015"
+        },
+        {
+            "title": "Marshmello - You & Me.mp3",
+            "original_name": "You & Me",
+            "artists_name": [
+                "Marshmello"
+            ],
+            "album": "Marshmello",
+            "year": "2015"
+        },
+        {
+            "title": "MIX - Tones and I [Dance Monkey].mp3",
+            "original_name": "Dance Monkey",
+            "artists_name": [
+                "Tones and I"
+            ],
+            "album": "Tones and I",
+            "year": "2009"
+        },
+        {
+            "title": "MIX - Coffin Dance.mp3",
+            "original_name": "Coffin Dance",
+            "artists_name": [
+                "Tony Igy"
+            ],
+            "album": "Coffin Dance",
+            "year": "2017"
+        },
+        {
+            "title": "BLAP - Kiss & Makeup.mp3",
+            "original_name": "Kiss & Makeup",
+            "artists_name": [
+                "BLACKPINK",
+                "Dua Lipa"
+            ],
+            "album": "Dua Lipa",
+            "year": "2015"
+        },
+        {
+            "title": "MIX - To Brazil..mp3",
+            "original_name": "To Brazil! (XXL)",
+            "artists_name": [
+                "Vengaboys"
+            ],
+            "album": "Vengaboys",
+            "year": "1998"
+        },
+        {
+            "title": "BTS - Permission.mp3",
+            "original_name": "Permission to Dance",
+            "artists_name": [
+                "BTS"
+            ],
+            "album": "BTS",
+            "year": "2013"
+        },
+        {
+            "title": "Dspc - Despaito (Hindi Rap Mix Cover).mp3",
+            "original_name": "DESPACITO",
+            "artists_name": [
+                "Dhruvan Moorthy",
+                "SeeMo"
+            ],
+            "album": "Dhruvan Moorthy",
+            "year": "2018"
+        },
+        {
+            "title": "Dspc - Despacito (Justin Cover).mp3",
+            "original_name": "DESPASITO (Justin Cover)",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "DESPACITO",
+            "year": "2018"
+        },
+        {
+            "title": "Dspc - Despacito ft. Daddy Yankee.mp3",
+            "original_name": "Despacito ft. Daddy Yankee",
+            "artists_name": [
+                "Daddy Yankee"
+            ],
+            "album": "DESPACITO",
+            "year": "2018"
+        },
+        {
+            "title": "Dspc - Despacito (Hindi Version).mp3",
+            "original_name": "Despacito (Hindi Version)",
+            "artists_name": [
+                "Uday Bagri"
+            ],
+            "album": "Uday Bagri",
+            "year": "2018"
+        },
+        {
+            "title": "Dspc - Despacito (Justin Cover 2).mp3",
+            "original_name": "Despacito (Justin Cover 2)",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "DESPACITO",
+            "year": "2018"
+        },
+        {
+            "title": "BacB - As Long As You Love Me.mp3",
+            "original_name": "As Long As You Love Me",
+            "artists_name": [
+                "Backstreet Boys"
+            ],
+            "album": "Backstreet Boys",
+            "year": "1993"
+        },
+        {
+            "title": "DdyY - Dura.mp3",
+            "original_name": "Dura",
+            "artists_name": [
+                "Daddy Yankee"
+            ],
+            "album": "Daddy Yankee",
+            "year": "1994"
+        },
+        {
+            "title": "BacB - Show me the meaning.mp3",
+            "original_name": "Show Me the Meaning of Being Lonely",
+            "artists_name": [
+                "Backstreet Boys"
+            ],
+            "album": "Backstreet Boys",
+            "year": "1993"
+        },
+        {
+            "title": "PitB - Rain Over Me.mp3",
+            "original_name": "Rain Over Me",
+            "artists_name": [
+                "Pitbull"
+            ],
+            "album": "Pitbull",
+            "year": "2004"
+        },
+        {
+            "title": "Brbi - Barbie Girl.mp3",
+            "original_name": "Barbie Girl",
+            "artists_name": [
+                "Aqua"
+            ],
+            "album": "Aqua",
+            "year": "1989"
+        },
+        {
+            "title": "PitB - Give Me Everything.mp3",
+            "original_name": "Give Me Everything",
+            "artists_name": [
+                "Pitbull"
+            ],
+            "album": "Pitbull",
+            "year": "2004"
+        },
+        {
+            "title": "PitB - Exotic.mp3",
+            "original_name": "Exotic",
+            "artists_name": [
+                "Pitbull",
+                "Priyanka Chopra"
+            ],
+            "album": "Pitbull",
+            "year": "2004"
+        },
+        {
+            "title": "PitB - On The Floor.mp3",
+            "original_name": "On The Floor",
+            "artists_name": [
+                "Pitbull",
+                "Jennifer Lopez"
+            ],
+            "album": "Pitbull",
+            "year": "2004"
+        },
+        {
+            "title": "EdS - Shape of You.mp3",
+            "original_name": "Shape of You",
+            "artists_name": [
+                "Ed Sheeran"
+            ],
+            "album": "Ed Sheeran",
+            "year": "2005"
+        },
+        {
+            "title": "AlnW - Journey.mp3",
+            "original_name": "Journey",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Hide & Seek.mp3",
+            "original_name": "Hide & Seek",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Force [FDM].mp3",
+            "original_name": "Force [FDM]",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - All Falls Down.mp3",
+            "original_name": "All Falls Down",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Different World.mp3",
+            "original_name": "Different World",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Tired.mp3",
+            "original_name": "Tired",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Sing Me To Sleep.mp3",
+            "original_name": "Sing Me to Sleep",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Darkside.mp3",
+            "original_name": "Darkside",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Alone.mp3",
+            "original_name": "Alone",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Fade [NCS Release].mp3",
+            "original_name": "Fade [NCS Release]",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Faded.mp3",
+            "original_name": "Faded",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Charli XCX (After The Afterparty).mp3",
+            "original_name": "Charli XCX (After the Afterparty)",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Always.mp3",
+            "original_name": "Always",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - Ignite.mp3",
+            "original_name": "Ignite",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "AlnW - On My Way (1).mp3",
+            "original_name": "On My Way",
+            "artists_name": [
+                "Alan Walker"
+            ],
+            "album": "Alan Walker",
+            "year": "2012"
+        },
+        {
+            "title": "Sia - Cheap Thrills Ft. Sean Paul.mp3",
+            "original_name": "Cheap Thrills feat. Sean Paul",
+            "artists_name": [
+                "Sia"
+            ],
+            "album": "Sia",
+            "year": "1997"
+        },
+        {
+            "title": "Sia - Unstoppable.mp3",
+            "original_name": "Unstoppable",
+            "artists_name": [
+                "Sia"
+            ],
+            "album": "Sia",
+            "year": "1997"
+        },
+        {
+            "title": "TrpM - Aladdin Arabian Nights.mp3",
+            "original_name": "Aladdin Arabian Nights",
+            "artists_name": [
+                "Trap Music"
+            ],
+            "album": "Trap Music",
+            "year": "1990"
+        },
+        {
+            "title": "JusB - Favorite Girl.mp3",
+            "original_name": "Favorite Girl",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Sorry.mp3",
+            "original_name": "Sorry",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Be Alright.mp3",
+            "original_name": "Be Alright",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Love Me.mp3",
+            "original_name": "Love Me",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - 2U.mp3",
+            "original_name": "2U",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Baby.mp3",
+            "original_name": "Baby",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - One Time.mp3",
+            "original_name": "One Time",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Never Say Never.mp3",
+            "original_name": "Never Say Never",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Die In Your Arms.mp3",
+            "original_name": "Die in Your Arms",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Boyfriend.mp3",
+            "original_name": "Boyfriend",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Let Me Love You.mp3",
+            "original_name": "Let Me Love You",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "JusB - Beauty And A Beat.mp3",
+            "original_name": "Beauty And A Beat",
+            "artists_name": [
+                "Justin Bieber"
+            ],
+            "album": "Justin Bieber",
+            "year": "2009"
+        },
+        {
+            "title": "Anbl - You Are My Sunshine.mp3",
+            "original_name": "You Are My Sunshin",
+            "artists_name": [
+                "Charles McDonald"
+            ],
+            "album": "Annabelle",
+            "year": "2014"
+        },
+        {
+            "title": "Anbl - Annabelle Sings A Song (Part - 2).mp3",
+            "original_name": "Annabelle Sings A Song",
+            "artists_name": [
+                "WhatADizzyDance"
+            ],
+            "album": "Annabelle",
+            "year": "2014"
+        },
+        {
+            "title": "FIFA - We Are One (Ole Ola).mp3",
+            "original_name": "We Are One (Ole Ola)",
+            "artists_name": [
+                "Pitbull"
+            ],
+            "album": "FIFA",
+            "year": "1930"
+        },
+        {
+            "title": "FIFA - La La La (Brazil 2014).mp3",
+            "original_name": "La La La (Brazil)",
+            "artists_name": [
+                "Shakira"
+            ],
+            "album": "FIFA",
+            "year": "1930"
+        },
+        {
+            "title": "The Chainsmokers - Who Do You Love.mp3",
+            "original_name": "Who Do You Love",
+            "artists_name": [
+                "The Chainsmokers"
+            ],
+            "album": "The Chainsmokers",
+            "year": "2012"
+        },
+        {
+            "title": "Halsey - Without Me.mp3",
+            "original_name": "Without Me",
+            "artists_name": [
+                "Halsey"
+            ],
+            "album": "Halsey",
+            "year": "2014"
+        },
+        {
+            "title": "SpdM - Sunflower [Post Malone, Swae Lee ].mp3",
+            "original_name": "Sunflower",
+            "artists_name": [
+                "Post Malone",
+                "Swae Lee"
+            ],
+            "album": "Post Malone",
+            "year": "2011"
+        },
+        {
+            "title": "NicM - Hey Mama.mp3",
+            "original_name": "Hey Mama",
+            "artists_name": [
+                "David Guetta",
+                "Nicki Minaj"
+            ],
+            "album": "David Guetta",
+            "year": "1980"
+        },
+        {
+            "title": "FF6 - We Own It.mp3",
+            "original_name": "We Own It",
+            "artists_name": [
+                "2 Chainz",
+                "Wiz Khalifa"
+            ],
+            "album": "Fast & Furious 6",
+            "year": "2013"
+        },
+        {
+            "title": "Guru - Tere Bina.mp3",
+            "original_name": "Tere Bina",
+            "artists_name": [
+                "A.R. Rahman",
+                "Chinmayi"
+            ],
+            "album": "Guru",
+            "year": "2007"
+        },
+        {
+            "title": "Yrna - Chookar Mere Man Ko.mp3",
+            "original_name": "Chhu Kar Mere Manko",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Yaarana",
+            "year": "1981"
+        },
+        {
+            "title": "Yrna - Tere Jaisa Yaar Kahan.mp3",
+            "original_name": "Tere Jaisa Yaar Kahan",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Yaarana",
+            "year": "1981"
+        },
+        {
+            "title": "ZID - Saanson Ko.mp3",
+            "original_name": "Saanson Ko",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Zid",
+            "year": "2014"
+        },
+        {
+            "title": "ZID - Tu Zaroori.mp3",
+            "original_name": "Tu Zaroori",
+            "artists_name": [
+                "Sunidhi Chauhan"
+            ],
+            "album": "Zid",
+            "year": "2014"
+        },
+        {
+            "title": "YKB - Chura Liya Hai Tumne Jo Dil Ko.mp3",
+            "original_name": "Chura Liya Hai Tumne Jo Dil Ko",
+            "artists_name": [
+                "Asha Bhosle",
+                "Mohammed Rafi"
+            ],
+            "album": "Yaadon Ki Baaraat",
+            "year": "1973"
+        },
+        {
+            "title": "Yryn - Baarish.mp3",
+            "original_name": "Baarish",
+            "artists_name": [
+                "Mohammed Irfan",
+                "Gajendra Verma"
+            ],
+            "album": "Yaariyan",
+            "year": "2014"
+        },
+        {
+            "title": "Yryn - Sunny Sunny.mp3",
+            "original_name": "Sunny Sunny",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yaariyan",
+            "year": "2014"
+        },
+        {
+            "title": "Yryn - ABCD.mp3",
+            "original_name": "ABCD",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yaariyan",
+            "year": "2014"
+        },
+        {
+            "title": "YB - Ek Din Aap.mp3",
+            "original_name": "Ek Din Aap",
+            "artists_name": [
+                "Kumar Sanu",
+                "Alka Yagnik"
+            ],
+            "album": "Yes Boss",
+            "year": "1997"
+        },
+        {
+            "title": "Yryn - Allah Waariyan.mp3",
+            "original_name": "Allah Waariyan",
+            "artists_name": [
+                "Himansh Kohli",
+                "Rakul Preet Singh"
+            ],
+            "album": "Yaariyan",
+            "year": "2014"
+        },
+        {
+            "title": "Yung - Suno Na Sangemarmar.mp3",
+            "original_name": "Suno na sangemarmar",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Youngistaan",
+            "year": "2014"
+        },
+        {
+            "title": "YB - MAIN KOI AAISA GEET.mp3",
+            "original_name": "Main Koi Aisa Geet Gaoon",
+            "artists_name": [
+                "Abhijeet Bhattachary",
+                "Alka Yagnik"
+            ],
+            "album": "Yes Boss",
+            "year": "1997"
+        },
+        {
+            "title": "Zehr - Woh Lamhe Woh Baatein.mp3",
+            "original_name": "Woh Lamhe Woh Baatein",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Zeher",
+            "year": "2005"
+        },
+        {
+            "title": "Zehr - Woh Lamhe (Remix).mp3",
+            "original_name": "Woh Lamhe (Remix)",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Zeher",
+            "year": "2005"
+        },
+        {
+            "title": "ZI - O Hansini.mp3",
+            "original_name": "O Hansini",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Zehreela Insaan",
+            "year": "1974"
+        },
+        {
+            "title": "TM - Dil Ibadat.mp3",
+            "original_name": "Dil Ibaadat",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Tum Mile",
+            "year": "2009"
+        },
+        {
+            "title": "Yvrj - Tu Meri Dost Hain.mp3",
+            "original_name": "Tu Meri Dost Hai",
+            "artists_name": [
+                "A. R. Rahman",
+                "Benny Dayal",
+                "Shreya Ghoshal"
+            ],
+            "album": "Yuvvraaj",
+            "year": "2008"
+        },
+        {
+            "title": "TM - Tu Hi Haqeeqat.mp3",
+            "original_name": "Tu Hi Haqeeqat",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Javed Ali",
+                "Irshan Ashraf",
+                "Shadab"
+            ],
+            "album": "Tum Mile",
+            "year": "2009"
+        },
+        {
+            "title": "TM - Tum Mile.mp3",
+            "original_name": "Tum Mile",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Neeraj Shridhar"
+            ],
+            "album": "Tum Mile",
+            "year": "2009"
+        },
+        {
+            "title": "Wlcm - Tera Sarafa.mp3",
+            "original_name": "Tera Sarafa Aisa Hai",
+            "artists_name": [
+                "Anand Raj Anand",
+                "Shweta Pandit"
+            ],
+            "album": "Welcome",
+            "year": "2007"
+        },
+        {
+            "title": "W2K - Lalla Lalla Lori.mp3",
+            "original_name": "Lalla Lalla Lori",
+            "artists_name": [
+                "Vishal Dadlani"
+            ],
+            "album": "Welcome 2 Karachi",
+            "year": "2015"
+        },
+        {
+            "title": "Wlcm - Uncha Lamba Kad.mp3",
+            "original_name": "Uncha Lamba Kad",
+            "artists_name": [
+                "Anand Raj Anand",
+                "Kalpana Patowary"
+            ],
+            "album": "Welcome",
+            "year": "2007"
+        },
+        {
+            "title": "WohL - Kya Mujhe Pyar Hai (Remix).mp3",
+            "original_name": "Kya Mujhe Pyaar Hai (Remix)",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Woh Lamhe",
+            "year": "2006"
+        },
+        {
+            "title": "WUS - Kya Karoon.mp3",
+            "original_name": "kya karoon?",
+            "artists_name": [
+                "Clinton Cerejo",
+                "Shankar-Ehsaan-Loy"
+            ],
+            "album": "Wake Up Sid",
+            "year": "2009"
+        },
+        {
+            "title": "WohL - Kya Mujhe Pyaar Hai.mp3",
+            "original_name": "Kya Mujhe Pyaar Hai",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Woh Lamhe",
+            "year": "2006"
+        },
+        {
+            "title": "Vada - Main Ishq Uska.mp3",
+            "original_name": "Main Ishq Uska",
+            "artists_name": [
+                "Alka Yagnik",
+                "Babul Supriyo",
+                "Himesh Reshammiya"
+            ],
+            "album": "Vaada",
+            "year": "2005"
+        },
+        {
+            "title": "Veer - Surili Akhiyon Wale.mp3",
+            "original_name": "Surili Akhiyon Wale",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Sunidhi Chauhan",
+                "Suzanne D'Mello"
+            ],
+            "album": "Veer",
+            "year": "2010"
+        },
+        {
+            "title": "WUS - Wake Up Sid.mp3",
+            "original_name": "Wake Up Sid",
+            "artists_name": [
+                "Shankar-Ehsaan-Loy"
+            ],
+            "album": "Wake Up Sid",
+            "year": "2009"
+        },
+        {
+            "title": "WUS - Iktara.mp3",
+            "original_name": "Iktara",
+            "artists_name": [
+                "Amit Trivedi",
+                "Amitabh Bhattacharya",
+                "Kavita Seth"
+            ],
+            "album": "Wake Up Sid",
+            "year": "2009"
+        },
+        {
+            "title": "VD - Pani Da Rang.mp3",
+            "original_name": "Pani da Rang",
+            "artists_name": [
+                "Ayushmann Khurrana"
+            ],
+            "album": "Vicky Donor",
+            "year": "2012"
+        },
+        {
+            "title": "UJ - In Ankhon Ki Masti.mp3",
+            "original_name": "In Aankhon Ki Masti",
+            "artists_name": [
+                "Asha Bhosle"
+            ],
+            "album": "Umrao Jaan",
+            "year": "1981"
+        },
+        {
+            "title": "Vivh - Tere Dware Pe Aai Baraat.mp3",
+            "original_name": "Tere Dwaare Pe Aayee Baraat",
+            "artists_name": [
+                "Ravindra Jain"
+            ],
+            "album": "Vivah",
+            "year": "2006"
+        },
+        {
+            "title": "Vivh - Milan Abhi Aadha Adhura Hai.mp3",
+            "original_name": "Milan Abhi Aadha Adhura Hai",
+            "artists_name": [
+                "Udit Narayan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Vivah",
+            "year": "2006"
+        },
+        {
+            "title": "Tezz - Tere Bina.mp3",
+            "original_name": "Tere Bina",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Tezz",
+            "year": "2012"
+        },
+        {
+            "title": "Vivh - Hamari Shaadi Mein.mp3",
+            "original_name": "Hamari Shaadi Mein",
+            "artists_name": [
+                "Babul Supriyo",
+                "Shreya Ghoshal"
+            ],
+            "album": "Vivah",
+            "year": "2006"
+        },
+        {
+            "title": "Tezz - Tere Bina (Melody).mp3",
+            "original_name": "Tere Bina (Melody)",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Tezz",
+            "year": "2012"
+        },
+        {
+            "title": "TS - Manali Trance.mp3",
+            "original_name": "Manali Trance",
+            "artists_name": [
+                "Neha Kakkar",
+                "Yo Yo Honey Singh",
+                "Lil Golu"
+            ],
+            "album": "The Shaukeens",
+            "year": "2014"
+        },
+        {
+            "title": "TS - Alcoholic.mp3",
+            "original_name": "Alcoholic",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "The Shaukeens",
+            "year": "2014"
+        },
+        {
+            "title": "TN - Tere Naam.mp3",
+            "original_name": "Tere Naam",
+            "artists_name": [
+                "Udit Narayan",
+                "Alka Yagnik"
+            ],
+            "album": "Tere Naam",
+            "year": "2003"
+        },
+        {
+            "title": "TN - Kyon Kisi Ko.mp3",
+            "original_name": "Kyo Kisi Ko",
+            "artists_name": [
+                "Udit Narayan"
+            ],
+            "album": "Tere Naam",
+            "year": "2003"
+        },
+        {
+            "title": "TN - Lagan Lagi.mp3",
+            "original_name": "Lagan Lagi",
+            "artists_name": [
+                "Sukhwinder Singh"
+            ],
+            "album": "Tere Naam",
+            "year": "2003"
+        },
+        {
+            "title": "TMK - Allah Jaane.mp3",
+            "original_name": "Allah Jaane",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Teri Meri Kahaani",
+            "year": "2012"
+        },
+        {
+            "title": "TMK - Mukhtasar.mp3",
+            "original_name": "Mukhtasar",
+            "artists_name": [
+                "Wajid Ali"
+            ],
+            "album": "Teri Meri Kahaani",
+            "year": "2012"
+        },
+        {
+            "title": "TK - Teri Yaadon Mein.mp3",
+            "original_name": "Teri Yaadon Mein",
+            "artists_name": [
+                "KK",
+                "Shreya Ghoshal"
+            ],
+            "album": "The Killer",
+            "year": "2006"
+        },
+        {
+            "title": "TX - Dard Dilo Ke.mp3",
+            "original_name": "Dard Dilo Ke",
+            "artists_name": [
+                "Himesh Reshammiya",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "The Xpose",
+            "year": "2014"
+        },
+        {
+            "title": "Tzab - So Gaya Yeh.mp3",
+            "original_name": "So Gaya Yeh Jahan",
+            "artists_name": [
+                "Alka Yagnik",
+                "Nitin Mukesh",
+                "Shabbir Kumar"
+            ],
+            "album": "Tezaab",
+            "year": "1988"
+        },
+        {
+            "title": "Tzab - Ek Do Teen Char.mp3",
+            "original_name": "Ek Do Teen Char",
+            "artists_name": [
+                "Alka Yagnik"
+            ],
+            "album": "Tezaab",
+            "year": "1988"
+        },
+        {
+            "title": "TT - Gulabi Aankhen.mp3",
+            "original_name": "Gulabi Ankhen",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "The Train",
+            "year": "2007"
+        },
+        {
+            "title": "TT - Woh Ajnabee (1).mp3",
+            "original_name": "Woh Ajnabee",
+            "artists_name": [
+                "Mithoon",
+                "Shilpa Rao"
+            ],
+            "album": "The Train",
+            "year": "2007"
+        },
+        {
+            "title": "TT - Beete Lamhein.mp3",
+            "original_name": "Beete Lamhein",
+            "artists_name": [
+                "Mithoon",
+                "Sayeed Qadri"
+            ],
+            "album": "The Train",
+            "year": "2007"
+        },
+        {
+            "title": "TDP - Ishq Sufiyana.mp3",
+            "original_name": "Ishq Sufiana",
+            "artists_name": [
+                "Kamal Khan"
+            ],
+            "album": "The Dirty Picture",
+            "year": "2011"
+        },
+        {
+            "title": "Thre - Why This Kolaveri Di.mp3",
+            "original_name": "Why This Kolaveri Di",
+            "artists_name": [
+                "Dhanush",
+                "Anirudh Ravichander"
+            ],
+            "album": "3",
+            "year": "2012"
+        },
+        {
+            "title": "TN21 - Mann Mera.mp3",
+            "original_name": "Mann Mera",
+            "artists_name": [
+                "Gajendra Verma"
+            ],
+            "album": "Table No. 21",
+            "year": "2013"
+        },
+        {
+            "title": "Sltn - Jag Ghoomeya.mp3",
+            "original_name": "Jag Ghoomeya",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Sultan",
+            "year": "2016"
+        },
+        {
+            "title": "Sltn - Baby Ko Bass Pasand Hai.mp3",
+            "original_name": "Baby Ko Bass Pasand Hai",
+            "artists_name": [
+                "Vishal Dadlani",
+                "Shalmali Kholgade",
+                "Isheeta",
+                "Badshah"
+            ],
+            "album": "Sultan",
+            "year": "2016"
+        },
+        {
+            "title": "SOTY - Radha.mp3",
+            "original_name": "Radha",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Udit Narayan",
+                "Vishal Dadlani",
+                "Shekhar Ravjiani"
+            ],
+            "album": "Student of the Year",
+            "year": "2012"
+        },
+        {
+            "title": "SOTY - Ishq Wala Love.mp3",
+            "original_name": "Ishq Wala Love",
+            "artists_name": [
+                "Neeti Mohan",
+                "Salim Merchant",
+                "Shekhar Ravjiani"
+            ],
+            "album": "Student of the Year",
+            "year": "2012"
+        },
+        {
+            "title": "Surj - Baharo Phool Barsao.mp3",
+            "original_name": "Baharon Phool Barsao",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "Suraj",
+            "year": "1966"
+        },
+        {
+            "title": "SC - Ek Mulaqat.mp3",
+            "original_name": "EK Mulaqat",
+            "artists_name": [
+                "Altamash Faridi"
+            ],
+            "album": "Sonali Cable",
+            "year": "2014"
+        },
+        {
+            "title": "Tlas - Jee Le Zaraa.mp3",
+            "original_name": "Jee Le Zaraa",
+            "artists_name": [
+                "Ram Sampath",
+                "Vishal Dadlani",
+                "Javed Akhtar"
+            ],
+            "album": "Talaash: The Answer Lies Within",
+            "year": "2012"
+        },
+        {
+            "title": "TZP - Maa.mp3",
+            "original_name": "Maa",
+            "artists_name": [
+                "Shankar Mahadevan"
+            ],
+            "album": "Taare Zameen Par",
+            "year": "2007"
+        },
+        {
+            "title": "Tshn - Falak Tak.mp3",
+            "original_name": "Falak Tak",
+            "artists_name": [
+                "Mahalakshmi Iyer",
+                "Udit Narayan"
+            ],
+            "album": "Tashan",
+            "year": "2008"
+        },
+        {
+            "title": "S26 - Mujh Mein Tu.mp3",
+            "original_name": "Mujh Mein Tu",
+            "artists_name": [
+                "M. M. Keeravani"
+            ],
+            "album": "Special 26",
+            "year": "2013"
+        },
+        {
+            "title": "Tshn - Dil Haara Re.mp3",
+            "original_name": "Dil Haara",
+            "artists_name": [
+                "Sukhwinder Singh"
+            ],
+            "album": "Tashan",
+            "year": "2008"
+        },
+        {
+            "title": "Tshn - Tashan Mein.mp3",
+            "original_name": "Tashan Mein",
+            "artists_name": [
+                "Saleem",
+                "Vishal Dadlani",
+                "Vishal-Shekhar"
+            ],
+            "album": "Tashan",
+            "year": "2008"
+        },
+        {
+            "title": "TNLG - Piya O Re Piya.mp3",
+            "original_name": "Piya O Re Piya",
+            "artists_name": [
+                "Atif Aslam",
+                "Shreya Ghoshal"
+            ],
+            "album": "Tere Naal Love Ho Gaya",
+            "year": "2012"
+        },
+        {
+            "title": "Shol - Ye Dosti.mp3",
+            "original_name": "Ye Dosti",
+            "artists_name": [
+                "Kishore Kumar",
+                "Manna Dey"
+            ],
+            "album": "Sholay",
+            "year": "1975"
+        },
+        {
+            "title": "SIB - Mahi Aaja.mp3",
+            "original_name": "Mahi Aaja",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Singh Is Bliing",
+            "year": "2015"
+        },
+        {
+            "title": "SITC - Saibo.mp3",
+            "original_name": "Saibo",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Tochi Raina"
+            ],
+            "album": "Shor in the City",
+            "year": "2011"
+        },
+        {
+            "title": "Shiv - Bolo Har Har Har.mp3",
+            "original_name": "Bolo Har Har Har",
+            "artists_name": [
+                "Mithoon"
+            ],
+            "album": "Shivaay",
+            "year": "2016"
+        },
+        {
+            "title": "SDR - Gulabi.mp3",
+            "original_name": "Gulabi",
+            "artists_name": [
+                "Jigar Saraiya",
+                "Priya Saraiya",
+                "Sachin-Jigar"
+            ],
+            "album": "Shuddh Desi Romance",
+            "year": "2013"
+        },
+        {
+            "title": "SIK - Teri Ore.mp3",
+            "original_name": "Teri Ore",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Singh Is Kinng",
+            "year": "2008"
+        },
+        {
+            "title": "Sils - Dekha Ek Khwab.mp3",
+            "original_name": "Dekha Ek Khwab",
+            "artists_name": [
+                "Amitabh Bachchan",
+                "Kishore Kumar",
+                "Lata Mangeshkar"
+            ],
+            "album": "Silsila",
+            "year": "1981"
+        },
+        {
+            "title": "Shor - Ek Pyar Ka Nagma Hai.mp3",
+            "original_name": "Ek Pyar Ka Nagma",
+            "artists_name": [
+                "Lata Mangeshkar"
+            ],
+            "album": "Shor",
+            "year": "1972"
+        },
+        {
+            "title": "SIK - Jee Karda.mp3",
+            "original_name": "Jee Karda",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Labh Janjua",
+                "Suzanne D'Mello"
+            ],
+            "album": "Singh Is Kinng",
+            "year": "2008"
+        },
+        {
+            "title": "ShR - Khali Salam Dua.mp3",
+            "original_name": "Khali Salam Dua",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Shortcut Romeo",
+            "year": "2013"
+        },
+        {
+            "title": "SR - Kuch Toh Hua Hai.mp3",
+            "original_name": "Kuch Toh Hua Hai",
+            "artists_name": [
+                "Ankit Tiwari",
+                "Tulsi Kumar"
+            ],
+            "album": "Singham",
+            "year": "2011"
+        },
+        {
+            "title": "Swry - Jab Se Tere Naina.mp3",
+            "original_name": "Jab Se Tere Naina",
+            "artists_name": [
+                "Shaan"
+            ],
+            "album": "Saawariya",
+            "year": "2007"
+        },
+        {
+            "title": "Swry - Saawariya.mp3",
+            "original_name": "Saawariya",
+            "artists_name": [
+                "Shail Hada"
+            ],
+            "album": "Saawariya",
+            "year": "2007"
+        },
+        {
+            "title": "Srfr - Is Deewane Ladke Ko Koi Samjae.mp3",
+            "original_name": "Is Deewane Ladke Ko",
+            "artists_name": [
+                "Aamir Khan",
+                "Alka Yagnik"
+            ],
+            "album": "Sarfarosh",
+            "year": "1999"
+        },
+        {
+            "title": "Srfr - Jo Haal Dil Ka.mp3",
+            "original_name": "Jo Haal Dil Ka",
+            "artists_name": [
+                "Alka Yagnik",
+                "Kumar Sanu"
+            ],
+            "album": "Sarfarosh",
+            "year": "1999"
+        },
+        {
+            "title": "Shng - Duaa.mp3",
+            "original_name": "Duaa",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Shanghai",
+            "year": "2012"
+        },
+        {
+            "title": "SJ - Paniyon Sa.mp3",
+            "original_name": "Paniyon Sa",
+            "artists_name": [
+                "Atif Aslam",
+                "Tulsi Kumar"
+            ],
+            "album": "Satyameva Jayate",
+            "year": "2018"
+        },
+        {
+            "title": "SPS - Pyar Hamen Kis Mod Pe.mp3",
+            "original_name": "Pyar Hamen Kis Mod Pe",
+            "artists_name": [
+                "Kishore Kumar",
+                "Bhupinder Singh",
+                "R. D. Burman",
+                "Sapan Chakraborty",
+                "Gulshan Bawra"
+            ],
+            "album": "Satte Pe Satta",
+            "year": "1982"
+        },
+        {
+            "title": "SS - Tum Ko Dekha To Yeh Khayal Aaya.mp3",
+            "original_name": "Tum Ko Dekha To Yeh Khayal Aaya",
+            "artists_name": [
+                "Jagjit Singh"
+            ],
+            "album": "Saath Saath",
+            "year": "1982"
+        },
+        {
+            "title": "Rstm - Tere Sang Yaara.mp3",
+            "original_name": "Tere Sang Yaara",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Rustom",
+            "year": "2016"
+        },
+        {
+            "title": "Sjan - Mera Dil Bhi Kitna.mp3",
+            "original_name": "Mera Dil Bhi Kitna Pagal Hai",
+            "artists_name": [
+                "Alka Yagnik",
+                "Kumar Sanu"
+            ],
+            "album": "Saajan",
+            "year": "1991"
+        },
+        {
+            "title": "Rkst - Tum Ho.mp3",
+            "original_name": "Tum Ho",
+            "artists_name": [
+                "Mohit Chauhan",
+                "Suzanne D'Mello"
+            ],
+            "album": "Rockstar",
+            "year": "2011"
+        },
+        {
+            "title": "RDB - Roobaroo.mp3",
+            "original_name": "Roobaroo",
+            "artists_name": [
+                "A. R. Rahman",
+                "Naresh Iyer"
+            ],
+            "album": "Rang De Basanti",
+            "year": "2006"
+        },
+        {
+            "title": "RDB - Masti Ki Paathshala.mp3",
+            "original_name": "Paathshala",
+            "artists_name": [
+                "Mohammed Aslam",
+                "Naresh Iyer"
+            ],
+            "album": "Rang De Basanti",
+            "year": "2006"
+        },
+        {
+            "title": "Roy - Sooraj Dooba Hain Yaaron.mp3",
+            "original_name": "Sooraj Dooba Hain",
+            "artists_name": [
+                "Arijit Singh",
+                "Aditi Singh Sharma"
+            ],
+            "album": "Roy",
+            "year": "2015"
+        },
+        {
+            "title": "Roy - Chittiyaan Kalaiyaan.mp3",
+            "original_name": "Chittiyaan Kalaiyaan",
+            "artists_name": [
+                "Meet Bros"
+            ],
+            "album": "Roy",
+            "year": "2015"
+        },
+        {
+            "title": "Rush - Chup Chup Ke.mp3",
+            "original_name": "Chup Chup Ke",
+            "artists_name": [
+                "Ash King",
+                "Rizwan-Muazzam"
+            ],
+            "album": "Rush",
+            "year": "2012"
+        },
+        {
+            "title": "RV - Jeene Laga Hoon.mp3",
+            "original_name": "Jeene Laga Hoon",
+            "artists_name": [
+                "Atif Aslam",
+                "Shreya Ghoshal"
+            ],
+            "album": "Ramaiya Vastavaiya",
+            "year": "2013"
+        },
+        {
+            "title": "Redy - Humko Pyaar Hua.mp3",
+            "original_name": "Humko Pyar Hua",
+            "artists_name": [
+                "KK",
+                "Tulsi Kumar"
+            ],
+            "album": "Ready",
+            "year": "2011"
+        },
+        {
+            "title": "Rajk - Payal Meri.mp3",
+            "original_name": "Paayal Meri",
+            "artists_name": [
+                "Udit Narayan"
+            ],
+            "album": "Rajkumar",
+            "year": "1996"
+        },
+        {
+            "title": "RL - Tera Naam Liya.mp3",
+            "original_name": "Tera Naam Liya",
+            "artists_name": [
+                "Anuradha Paudwal",
+                "Manhar Udhas"
+            ],
+            "album": "Ram Lakhan",
+            "year": "1989"
+        },
+        {
+            "title": "Rnjh - Tum Tak.mp3",
+            "original_name": "Tum Tak",
+            "artists_name": [
+                "Javed Ali",
+                "Keerthi Sagathia",
+                "Pooja Vaidyanath"
+            ],
+            "album": "Raanjhanaa",
+            "year": "2013"
+        },
+        {
+            "title": "Rnjh - Ranjhanaa.mp3",
+            "original_name": "Raanjhanaa",
+            "artists_name": [
+                "Jasvinder Singh",
+                "Shiraz Uppal"
+            ],
+            "album": "Raanjhanaa",
+            "year": "2013"
+        },
+        {
+            "title": "RnjhD - Agar Launda Saala Dialog_1.mp3",
+            "original_name": "Agar Launda Saala",
+            "artists_name": [
+                "Dhanush"
+            ],
+            "album": "Raanjhanaa",
+            "year": "2013"
+        },
+        {
+            "title": "Rac2 - Lat Lag Gayee (Royal Dutch).mp3",
+            "original_name": "Lat Lag Gayee",
+            "artists_name": [
+                "Benny Dayal"
+            ],
+            "album": "Race 2",
+            "year": "2013"
+        },
+        {
+            "title": "Rac2 - Party On My Mind.mp3",
+            "original_name": "Party on My Mind",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Race 2",
+            "year": "2013"
+        },
+        {
+            "title": "Raaz - Maahi.mp3",
+            "original_name": "Maahi",
+            "artists_name": [
+                "Toshi",
+                "Shaarib"
+            ],
+            "album": "Raaz: The Mystery Continues",
+            "year": "2009"
+        },
+        {
+            "title": "Rac2 - Be Intehaan.mp3",
+            "original_name": "Be Intehaan",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Race 2",
+            "year": "2013"
+        },
+        {
+            "title": "Raes - Zaalima.mp3",
+            "original_name": "Zaalima",
+            "artists_name": [
+                "Arijit Singh",
+                "Harshdeep Kaur"
+            ],
+            "album": "Raees",
+            "year": "2017"
+        },
+        {
+            "title": "Raaz - Soniyo.mp3",
+            "original_name": "Soniyo",
+            "artists_name": [
+                "Sonu Nigam",
+                "Shreya Ghoshal"
+            ],
+            "album": "Raaz: The Mystery Continues",
+            "year": "2009"
+        },
+        {
+            "title": "RN - Tere Hoke Rehengay (Arijit Singh).mp3",
+            "original_name": "Tere Hoke Rehengay",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Raja Natwarlal",
+            "year": "2014"
+        },
+        {
+            "title": "RN - Tere Hoke Rahengay (Shweta Pandit).mp3",
+            "original_name": "Tere Hoke Rahengay",
+            "artists_name": [
+                "Shweta Pandit"
+            ],
+            "album": "Raja Natwarlal",
+            "year": "2014"
+        },
+        {
+            "title": "RH - Pardesi Pardesi.mp3",
+            "original_name": "Pardesi Pardesi",
+            "artists_name": [
+                "Alka Yagnik",
+                "Sapna Awasthi",
+                "Udit Narayan"
+            ],
+            "album": "Raja Hindustani",
+            "year": "1996"
+        },
+        {
+            "title": "Race - Pehli Nazar Mein.mp3",
+            "original_name": "Pehli Nazar Mein",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Race",
+            "year": "2008"
+        },
+        {
+            "title": "RNBDJ - Tujh Mein Rab Dikhta Hai.mp3",
+            "original_name": "Tujh Mein Rab Dikhta Hai",
+            "artists_name": [
+                "Jay Kadn",
+                "Roopkumar Rathod"
+            ],
+            "album": "Rab Ne Bana Di Jodi",
+            "year": "2008"
+        },
+        {
+            "title": "Ravn - Ranjha Ranjha.mp3",
+            "original_name": "Ranjha Ranjha",
+            "artists_name": [
+                "Javed Ali",
+                "Rekha Bhardwaj"
+            ],
+            "album": "Raavan",
+            "year": "2010"
+        },
+        {
+            "title": "Quen - London Thumakda.mp3",
+            "original_name": "London Thumakda",
+            "artists_name": [
+                "Labh Janjua",
+                "Neha Kakkar",
+                "Sonu Kakkar"
+            ],
+            "album": "Queen",
+            "year": "2013"
+        },
+        {
+            "title": "Razz - Deewana Kar Raha Hai.mp3",
+            "original_name": "Deewana kar raha hai",
+            "artists_name": [
+                "Javed Ali"
+            ],
+            "album": "Raaz 3",
+            "year": "2012"
+        },
+        {
+            "title": "Prnc - O Mere Khuda.mp3",
+            "original_name": "O Mere Khuda",
+            "artists_name": [
+                "Atif Aslam",
+                "Garima Jhingon"
+            ],
+            "album": "Prince",
+            "year": "2010"
+        },
+        {
+            "title": "Prnc - Tere Liye.mp3",
+            "original_name": "Tere Liye",
+            "artists_name": [
+                "Atif Aslam",
+                "Shreya Ghoshal"
+            ],
+            "album": "Prince",
+            "year": "2010"
+        },
+        {
+            "title": "Prnc - Aa Bhi Ja Sanam.mp3",
+            "original_name": "Aa Bhi Jaa Sanam",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Prince",
+            "year": "2010"
+        },
+        {
+            "title": "Prnc - Tere Liye (Unlugged).mp3",
+            "original_name": "Tere Liye - Unplugged",
+            "artists_name": [
+                "Sachin Gupta"
+            ],
+            "album": "Prince",
+            "year": "2010"
+        },
+        {
+            "title": "Rbta - Ik Vaari Aa.mp3",
+            "original_name": "Ik Vaari Aa",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Raabta",
+            "year": "2017"
+        },
+        {
+            "title": "PG - Hoton Se Choo Lo.mp3",
+            "original_name": "Hothon Se Chhu Lo Tum",
+            "artists_name": [
+                "Jagjit Singh"
+            ],
+            "album": "Prem Geet",
+            "year": "1981"
+        },
+        {
+            "title": "Qrbn - Kya Dekhte Ho.mp3",
+            "original_name": "Kya Dekhte Ho",
+            "artists_name": [
+                "Kalyanji-Anandji",
+                "Mohammed Rafi",
+                "Asha Bhosle"
+            ],
+            "album": "Qurbani",
+            "year": "1980"
+        },
+        {
+            "title": "Rajn - Mora Piya.mp3",
+            "original_name": "Mora Piya",
+            "artists_name": [
+                "Aadesh Shrivastava"
+            ],
+            "album": "Raajneeti",
+            "year": "2010"
+        },
+        {
+            "title": "Rajn - Bheegi Si Bhaagi Si.mp3",
+            "original_name": "Bheegi Si Bhaagi Si",
+            "artists_name": [
+                "Antara Mitra",
+                "Mohit Chauhan",
+                "Pritam Chakraborty"
+            ],
+            "album": "Raajneeti",
+            "year": "2010"
+        },
+        {
+            "title": "RR - Dhokha Dhadi.mp3",
+            "original_name": "Dhokha Dhadi",
+            "artists_name": [
+                "Arijit Singh",
+                "Palak Muchhal"
+            ],
+            "album": "R... Rajkumar",
+            "year": "2013"
+        },
+        {
+            "title": "PMKK - Woh Pehli Baar.mp3",
+            "original_name": "Woh Pehli Baa",
+            "artists_name": [
+                "Shaan"
+            ],
+            "album": "Pyaar Mein Kabhi Kabhi",
+            "year": "1999"
+        },
+        {
+            "title": "RO - Criminal.mp3",
+            "original_name": "Criminal",
+            "artists_name": [
+                "Akon",
+                "Shruti Pathak",
+                "Vishal Dadlani"
+            ],
+            "album": "Ra.One",
+            "year": "2011"
+        },
+        {
+            "title": "RO - Dildaara (Stand By Me).mp3",
+            "original_name": "Dildaara (Stand by Me)",
+            "artists_name": [
+                "Shafqat Amanat Ali"
+            ],
+            "album": "Ra.One",
+            "year": "2011"
+        },
+        {
+            "title": "RO - Raftaarein.mp3",
+            "original_name": "Raftaarein",
+            "artists_name": [
+                "Shekhar Ravjiani",
+                "Vishal Dadlani"
+            ],
+            "album": "Ra.One",
+            "year": "2011"
+        },
+        {
+            "title": "RO - Bhare Naina.mp3",
+            "original_name": "Bhare Naina",
+            "artists_name": [
+                "Nandini Srikar",
+                "Shekhar Ravjiani",
+                "Vishal Dadlani"
+            ],
+            "album": "Ra.One",
+            "year": "2011"
+        },
+        {
+            "title": "PRDP - Murli Ki Taanon Si.mp3",
+            "original_name": "Murli Ki Taanon Si",
+            "artists_name": [
+                "Shaan"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "PRDP - Halo Re.mp3",
+            "original_name": "Halo Re",
+            "artists_name": [
+                "Aaman Trikha"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "RO - Chammak Challo.mp3",
+            "original_name": "Chammak Challo",
+            "artists_name": [
+                "Akon",
+                "Hamsika Iyer"
+            ],
+            "album": "Ra.One",
+            "year": "2011"
+        },
+        {
+            "title": "PRDP - Prem Ratan Dhan Payo.mp3",
+            "original_name": "Prem Ratan Dhan Payo",
+            "artists_name": [
+                "Palak Muchhal"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "PRDP - Aaj Unse Milna Hai.mp3",
+            "original_name": "Aaj Unse Milna Hai",
+            "artists_name": [
+                "Shaan"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "PRDP - Prem Leela.mp3",
+            "original_name": "Prem Leela",
+            "artists_name": [
+                "Aaman Trikha",
+                "Vinit Singh"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "PRDP - Jalte Diye.mp3",
+            "original_name": "Jalte Diye",
+            "artists_name": [
+                "Vinit Singh",
+                "Anweshaa",
+                "Harshdeep Kaur",
+                "Shabab Sabri"
+            ],
+            "album": "Prem Ratan Dhan Payo",
+            "year": "2015"
+        },
+        {
+            "title": "Prds - Meri Mehbooba.mp3",
+            "original_name": "Meri Mehbooba",
+            "artists_name": [
+                "Kumar Sanu",
+                "Alka Yagnik"
+            ],
+            "album": "Pardes",
+            "year": "1997"
+        },
+        {
+            "title": "PK - Chaar Kadam.mp3",
+            "original_name": "Chaar Kadam",
+            "artists_name": [
+                "Shaan",
+                "Shreya Ghoshal"
+            ],
+            "album": "PK",
+            "year": "2014"
+        },
+        {
+            "title": "Prds - Yeh Dil Deewana.mp3",
+            "original_name": "Yeh Dil Deewana",
+            "artists_name": [
+                "Sonu Nigam",
+                "Hema Sardesai",
+                "Shankar Mahadevan"
+            ],
+            "album": "Pardes",
+            "year": "1997"
+        },
+        {
+            "title": "Pdmn - Aaj Se Teri.mp3",
+            "original_name": "Aaj Se Teri",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Pad Man",
+            "year": "2018"
+        },
+        {
+            "title": "OJ - The Humma.mp3",
+            "original_name": "The Humma Song",
+            "artists_name": [
+                "A. R. Rahman"
+            ],
+            "album": "Ok Jaanu",
+            "year": "2017"
+        },
+        {
+            "title": "Ptsl - Bekarar.mp3",
+            "original_name": "Bekarar",
+            "artists_name": [
+                "Lucky Ali"
+            ],
+            "album": "Paathshaala",
+            "year": "2010"
+        },
+        {
+            "title": "Ptsl - Aye Khuda.mp3",
+            "original_name": "Aye Khuda",
+            "artists_name": [
+                "Salim Merchant"
+            ],
+            "album": "Paathshaala",
+            "year": "2010"
+        },
+        {
+            "title": "PPNH - Hey Mr DJ.mp3",
+            "original_name": "Hey Mr. DJ",
+            "artists_name": [
+                "Benny Dayal"
+            ],
+            "album": "Phata Poster Nikhla Hero",
+            "year": "2013"
+        },
+        {
+            "title": "PPNH - Main Rang Sharbaton.mp3",
+            "original_name": "Main Rang Sharbaton Ka",
+            "artists_name": [
+                "Atif Aslam",
+                "Chinmayi"
+            ],
+            "album": "Phata Poster Nikhla Hero",
+            "year": "2013"
+        },
+        {
+            "title": "PPNH - Mere Bina Tu.mp3",
+            "original_name": "Mere Bina Tu",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Harshdeep Kaur"
+            ],
+            "album": "Phata Poster Nikhla Hero",
+            "year": "2013"
+        },
+        {
+            "title": "Pdsn - Mere Saamne Wali Khidki Mein.mp3",
+            "original_name": "Mere Samne Wali Khidki",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Padosan",
+            "year": "1968"
+        },
+        {
+            "title": "Pdsn - Main Chali Main Chali.mp3",
+            "original_name": "Main Chali Main Chali",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Mohammed Rafi"
+            ],
+            "album": "Padosan",
+            "year": "1968"
+        },
+        {
+            "title": "OUTM - Tum Jo Aaye.mp3",
+            "original_name": "Tum Jo Aaye",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Tulsi Kumar"
+            ],
+            "album": "Once Upon a Time in Mumbai",
+            "year": "2010"
+        },
+        {
+            "title": "OUTM - Pee Loon.mp3",
+            "original_name": "Pee Loon",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Once Upon a Time in Mumbai",
+            "year": "2010"
+        },
+        {
+            "title": "OSO - Main Agar Kahoon.mp3",
+            "original_name": "Main Agar Kahoon",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Sonu Nigam"
+            ],
+            "album": "Om Shanti Om",
+            "year": "2007"
+        },
+        {
+            "title": "OSO - Jag Soona Soona Lage.mp3",
+            "original_name": "Jag Soona Soona Lage",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Richa Sharma"
+            ],
+            "album": "Om Shanti Om",
+            "year": "2007"
+        },
+        {
+            "title": "OSO - Ajab Si.mp3",
+            "original_name": "Ankhon Mein Teri",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Om Shanti Om",
+            "year": "2007"
+        },
+        {
+            "title": "NKP - Kaun Disha Mein Leke Chala.mp3",
+            "original_name": "Kaun Disha Mein Leke Chala",
+            "artists_name": [
+                "Hemlata",
+                "Jaspal Singh"
+            ],
+            "album": "Nadiya Ke Paar",
+            "year": "1982"
+        },
+        {
+            "title": "OMG - Go Go Govinda.mp3",
+            "original_name": "Go Go Govinda",
+            "artists_name": [
+                "Mika Singh",
+                "Shreya Ghoshal"
+            ],
+            "album": "OMG: Oh My God!",
+            "year": "2012"
+        },
+        {
+            "title": "MDK - Andekhi Anjaani.mp3",
+            "original_name": "Andekhi Anjaani",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Udit Narayan"
+            ],
+            "album": "Mujhse Dosti Karoge!",
+            "year": "2002"
+        },
+        {
+            "title": "M3 - Teri Jhuki Nazar.mp3",
+            "original_name": "Teri Jhuki Nazar",
+            "artists_name": [
+                "Shafqat Amanat Ali"
+            ],
+            "album": "Murder 3",
+            "year": "2013"
+        },
+        {
+            "title": "MKS - O Saathi Re.mp3",
+            "original_name": "O Saathi Re",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Muqaddar Ka Sikandar",
+            "year": "1978"
+        },
+        {
+            "title": "MSK - Aaja Soniye.mp3",
+            "original_name": "Aaja Soniye",
+            "artists_name": [
+                "Alka Yagnik",
+                "Sonu Nigam"
+            ],
+            "album": "Mujhse Shaadi Karogi",
+            "year": "2004"
+        },
+        {
+            "title": "MSK - Lal Dupatta.mp3",
+            "original_name": "Lal Dupatta",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Mujhse Shaadi Karogi",
+            "year": "2004"
+        },
+        {
+            "title": "MSK - Jeene Ke Hain Chaar Din.mp3",
+            "original_name": "Jeene Ke Hain Chaar Din",
+            "artists_name": [
+                "Sonu Nigam",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Mujhse Shaadi Karogi",
+            "year": "2004"
+        },
+        {
+            "title": "NK - Aaja Tujhko Pukare Mera Pyar.mp3",
+            "original_name": "Aaja Tujhko Pukare Mera Pyar",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "Neel Kamal",
+            "year": "1968"
+        },
+        {
+            "title": "Mhra - Tip Tip Barsa Paani.mp3",
+            "original_name": "Tip Tip Barsa Paani",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Suryavanshi",
+            "year": "1992"
+        },
+        {
+            "title": "MNIK - Sajda.mp3",
+            "original_name": "Sajda",
+            "artists_name": [
+                "Shankar Mahadevan"
+            ],
+            "album": "My Name Is Khan",
+            "year": "2010"
+        },
+        {
+            "title": "Nori - Aaja Re O Mere Dilbar Aaja.mp3",
+            "original_name": "Aaja Re O Mere Dilbar Aaja",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Nitin Mukesh"
+            ],
+            "album": "Noorie",
+            "year": "1979"
+        },
+        {
+            "title": "Naam - Tu Kal Chala Jayega.mp3",
+            "original_name": "Tu Kal Chala Jayega",
+            "artists_name": [
+                "Manhar Udhas",
+                "Mohammed Aziz"
+            ],
+            "album": "Naam",
+            "year": "1986"
+        },
+        {
+            "title": "Masm - Rabba Main Toh Mar Gaya Oye.mp3",
+            "original_name": "Rabba Main Toh Mar Gaya Oye",
+            "artists_name": [
+                "Shahid Mallya"
+            ],
+            "album": "Mausam",
+            "year": "2011"
+        },
+        {
+            "title": "MJS - O Mere Dil Ke Chain.mp3",
+            "original_name": "O Mere Dil Ke Chain",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Mere Jeevan Saathi",
+            "year": "1972"
+        },
+        {
+            "title": "Mkde - Din Chadta Hai Dar Lagta Hai.mp3",
+            "original_name": "Din Chadta Hai Dar Lagta Hai",
+            "artists_name": [
+                "Shweta Prasad"
+            ],
+            "album": "Makdee",
+            "year": "2002"
+        },
+        {
+            "title": "Mkde - O Pappad Wale Panga Na Le.mp3",
+            "original_name": "O Pappad Wale Panga Na Le",
+            "artists_name": [
+                "Upagna Pandya",
+                "Alaap Majgavkar"
+            ],
+            "album": "Makdee",
+            "year": "2002"
+        },
+        {
+            "title": "MYKSH - Mere Yaar Ki Shaadi Hai.mp3",
+            "original_name": "Mere Yaar Ki Shaadi Hai",
+            "artists_name": [
+                "Jeet Ganguly"
+            ],
+            "album": "Mere Yaar Ki Shaadi Hai",
+            "year": "2002"
+        },
+        {
+            "title": "MTH - Palat (Tera Hero Idhar Hai).mp3",
+            "original_name": "Palat - Tera Hero Idhar Hai",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Main Tera Hero",
+            "year": "2014"
+        },
+        {
+            "title": "Miln - Sawan Ka Mahina Pawan Kare Shor.mp3",
+            "original_name": "Sawan Ka Mahina",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Mukesh"
+            ],
+            "album": "Milan",
+            "year": "1967"
+        },
+        {
+            "title": "MBKD - Dhunki.mp3",
+            "original_name": "Dhunki",
+            "artists_name": [
+                "Neha Bhasin"
+            ],
+            "album": "Mere Brother Ki Dulhan",
+            "year": "2011"
+        },
+        {
+            "title": "MTH - Galat Baat Hai.mp3",
+            "original_name": "Galat Baat Hai",
+            "artists_name": [
+                "Javed Ali",
+                "Neeti Mohan"
+            ],
+            "album": "Main Tera Hero",
+            "year": "2014"
+        },
+        {
+            "title": "MBKD - Isq Risk.mp3",
+            "original_name": "Isq Risk",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Mere Brother Ki Dulhan",
+            "year": "2011"
+        },
+        {
+            "title": "Mann - Chaha Hai Tujhko.mp3",
+            "original_name": "Chaha Hai Tujhko",
+            "artists_name": [
+                "Udit Narayan",
+                "Anuradha Paudwal"
+            ],
+            "album": "Mann",
+            "year": "1999"
+        },
+        {
+            "title": "MATD - Thoda Sa Pyar Hua Hai.mp3",
+            "original_name": "Thoda Sa Pyar Hua Hai",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Maine Dil Tujhko Diya",
+            "year": "2002"
+        },
+        {
+            "title": "Msom - Tujhse Naraaz Nahin Zindagi.mp3",
+            "original_name": "Tujhse Naraaz Nahin Zindagi",
+            "artists_name": [
+                "Lata Mangeshkar"
+            ],
+            "album": "Masoom",
+            "year": "1982"
+        },
+        {
+            "title": "MAMR - Yaar Bina Chain Kaha Re.mp3",
+            "original_name": "Yaar Bina Chain Kahan Re",
+            "artists_name": [
+                "Bappi Lahiri",
+                "Hema Sardesai"
+            ],
+            "album": "Main Aur Mr. Riight",
+            "year": "2014"
+        },
+        {
+            "title": "MHN - Tumse Milke Dilka Jo Haal.mp3",
+            "original_name": "Tumse Milke Dil Ka",
+            "artists_name": [
+                "Altaf Sabri",
+                "Anu Malik",
+                "Sonu Nigam"
+            ],
+            "album": "Main Hoon Na",
+            "year": "2004"
+        },
+        {
+            "title": "MHN - Gori Gori Gori Gori.mp3",
+            "original_name": "Gori Gori",
+            "artists_name": [
+                "Anu Malik",
+                "KK",
+                "Sunidhi Chauhan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Main Hoon Na",
+            "year": "2004"
+        },
+        {
+            "title": "MHN - Main Hoon Na.mp3",
+            "original_name": "Main Hoon Na",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Sonu Nigam"
+            ],
+            "album": "Main Hoon Na",
+            "year": "2004"
+        },
+        {
+            "title": "LAK - Ajj Din Chadheya.mp3",
+            "original_name": "Ajj Din Chadheya",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Love Aaj Kal",
+            "year": "2009"
+        },
+        {
+            "title": "LAK - Twist.mp3",
+            "original_name": "Twist",
+            "artists_name": [
+                "Neeraj Shridhar"
+            ],
+            "album": "Love Aaj Kal",
+            "year": "2009"
+        },
+        {
+            "title": "LAK - Dooriyan.mp3",
+            "original_name": "Dooriyan",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Love Aaj Kal",
+            "year": "2009"
+        },
+        {
+            "title": "Lotr - Sawaar Loon.mp3",
+            "original_name": "Sawaar Loon",
+            "artists_name": [
+                "Monali Thakur"
+            ],
+            "album": "Lootera",
+            "year": "2013"
+        },
+        {
+            "title": "LNTL - Sun Zara.mp3",
+            "original_name": "Sun Zara",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "Lucky: No Time for Love",
+            "year": "2005"
+        },
+        {
+            "title": "Lgan - Radha Kaise Na Jale.mp3",
+            "original_name": "Radha Kaise Na Jale",
+            "artists_name": [
+                "Udit Narayan",
+                "Asha Bhosle"
+            ],
+            "album": "Lagaan",
+            "year": "2001"
+        },
+        {
+            "title": "Luck - Khudaya Ve.mp3",
+            "original_name": "Khudaya Ve",
+            "artists_name": [
+                "Salim Merchant"
+            ],
+            "album": "Luck",
+            "year": "2009"
+        },
+        {
+            "title": "Krbn - Kurbaan Hua.mp3",
+            "original_name": "Kurbaan Hua",
+            "artists_name": [
+                "Salim-Sulaiman"
+            ],
+            "album": "Kurbaan",
+            "year": "2009"
+        },
+        {
+            "title": "Krbn - Shukran Allah.mp3",
+            "original_name": "Shukran Allah",
+            "artists_name": [
+                "Salim Merchant",
+                "Shreya Ghoshal",
+                "Sonu Nigam"
+            ],
+            "album": "Kurbaan",
+            "year": "2009"
+        },
+        {
+            "title": "Laks - Main Aisa Kyun Hoon.mp3",
+            "original_name": "Main Aisa Kyon Hoon",
+            "artists_name": [
+                "Shaan"
+            ],
+            "album": "Lakshya",
+            "year": "2004"
+        },
+        {
+            "title": "LVRB - Aadat Se Majboor.mp3",
+            "original_name": "Aadat Se Majboor",
+            "artists_name": [
+                "Benny Dayal",
+                "Ranveer Singh"
+            ],
+            "album": "Ladies vs Ricky Bahl",
+            "year": "2011"
+        },
+        {
+            "title": "KisK - Is This Love (Kahin na laage).mp3",
+            "original_name": "Is This Love (Kahin Na Laage)",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Kismat Konnection",
+            "year": "2008"
+        },
+        {
+            "title": "KisK - Bakhuda Tumhi Ho.mp3",
+            "original_name": "Bakhuda Tumhi Ho",
+            "artists_name": [
+                "Alka Yagnik",
+                "Atif Aslam"
+            ],
+            "album": "Kismat Konnection",
+            "year": "2008"
+        },
+        {
+            "title": "Kris3 - Dil Tu Hi Bata.mp3",
+            "original_name": "Dil Tu Hi Bataa",
+            "artists_name": [
+                "Alisha Chinai",
+                "Zubeen Garg"
+            ],
+            "album": "Krrish 3",
+            "year": "2013"
+        },
+        {
+            "title": "Kris - Pyaar Ki Ek Kahani.mp3",
+            "original_name": "Pyar Ki Ek Kahani",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Sonu Nigam"
+            ],
+            "album": "Krrish",
+            "year": "2006"
+        },
+        {
+            "title": "Kick - Hangover.mp3",
+            "original_name": "Hangover",
+            "artists_name": [
+                "Meet Bros",
+                "Salman Khan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Kick",
+            "year": "2014"
+        },
+        {
+            "title": "Kick - Tu Hi Tu.mp3",
+            "original_name": "Tu Hi Tu",
+            "artists_name": [
+                "Neeti Mohan"
+            ],
+            "album": "Kick",
+            "year": "2014"
+        },
+        {
+            "title": "Ksna - Woh Kisna Hai.mp3",
+            "original_name": "Woh Kisna Hai",
+            "artists_name": [
+                "Sukhwinder Singh",
+                "Ayesha Darbar",
+                "S. Shailaja"
+            ],
+            "album": "Kisna: The Warrior Poet",
+            "year": "2005"
+        },
+        {
+            "title": "K&K - High Heels.mp3",
+            "original_name": "High Heels",
+            "artists_name": [
+                "Meet Bros",
+                "Yo Yo Honey Singh",
+                "Jaz Dhami",
+                "Aditi Singh Sharma"
+            ],
+            "album": "Ki & Ka",
+            "year": "2016"
+        },
+        {
+            "title": "K786 - Lonely.mp3",
+            "original_name": "Lonely",
+            "artists_name": [
+                "Himesh Reshammiya",
+                "Yo Yo Honey Singh",
+                "Hamsika Iyer"
+            ],
+            "album": "Khiladi 786",
+            "year": "2012"
+        },
+        {
+            "title": "K786 - Long Drive.mp3",
+            "original_name": "Long Drive",
+            "artists_name": [
+                "Mika Singh"
+            ],
+            "album": "Khiladi 786",
+            "year": "2012"
+        },
+        {
+            "title": "K786 - Hookah Bar.mp3",
+            "original_name": "Hookah Bar",
+            "artists_name": [
+                "Aaman Trikha",
+                "Himesh Reshammiya",
+                "Vinit Singh"
+            ],
+            "album": "Khiladi 786",
+            "year": "2012"
+        },
+        {
+            "title": "KKPK - Samandar.mp3",
+            "original_name": "Samandar",
+            "artists_name": [
+                "Jubin Nautiyal",
+                "Shreya Ghoshal"
+            ],
+            "album": "Kis Kisko Pyaar Karoon",
+            "year": "2015"
+        },
+        {
+            "title": "Kites - Zindagi Do Pal Ki.mp3",
+            "original_name": "Zindagi Do Pal Ki",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Kites",
+            "year": "2010"
+        },
+        {
+            "title": "Kites - Dil Kyun Yeh Mera.mp3",
+            "original_name": "Dil Kyun Yeh Mera",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Kites",
+            "year": "2010"
+        },
+        {
+            "title": "KM - Sajde.mp3",
+            "original_name": "Sajde",
+            "artists_name": [
+                "KK",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Khatta Meetha",
+            "year": "2010"
+        },
+        {
+            "title": "Knyd - Likhe Jo Khat Tujhe.mp3",
+            "original_name": "Likhe Jo Khat Tujhe",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "Kanyadaan",
+            "year": "1968"
+        },
+        {
+            "title": "Khmo - Khamoshiyan.mp3",
+            "original_name": "Khamoshiyan",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Khamoshiyan",
+            "year": "2015"
+        },
+        {
+            "title": "Khmo - Baatein Ye Kabhi Na.mp3",
+            "original_name": "Baatein Ye Kabhi Na",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Khamoshiyan",
+            "year": "2015"
+        },
+        {
+            "title": "Khmo - Tu Har Lamha.mp3",
+            "original_name": "Tu Har Lamha",
+            "artists_name": [
+                "Arijit Singh",
+                "Bobby-Imran"
+            ],
+            "album": "Khamoshiyan",
+            "year": "2015"
+        },
+        {
+            "title": "KA - Yeh Bandhan Toh.mp3",
+            "original_name": "Yeh Bandhan Toh",
+            "artists_name": [
+                "Alka Yagnik",
+                "Kumar Sanu",
+                "Udit Narayan"
+            ],
+            "album": "Karan Arjun",
+            "year": "1995"
+        },
+        {
+            "title": "K&S - Bolna.mp3",
+            "original_name": "Bolna",
+            "artists_name": [
+                "Arijit Singh",
+                "Asees Kaur"
+            ],
+            "album": "Kapoor & Sons",
+            "year": "2016"
+        },
+        {
+            "title": "K&S - Lets Nacho.mp3",
+            "original_name": "Let's Nacho",
+            "artists_name": [
+                "Badshah",
+                "Benny Dayal",
+                "Nucleya"
+            ],
+            "album": "Kapoor & Sons",
+            "year": "2016"
+        },
+        {
+            "title": "Karz - Lut Jaaon Lut Jaaon.mp3",
+            "original_name": "Lut Jaaon Lut Jaaon",
+            "artists_name": [
+                "Himesh Reshammiya"
+            ],
+            "album": "Karzzzz",
+            "year": "2008"
+        },
+        {
+            "title": "KB - Sau Aasoon.mp3",
+            "original_name": "Sau Aasoon",
+            "artists_name": [
+                "Rasika Shekhar",
+                "Shankar Mahadevan"
+            ],
+            "album": "Katti Batti",
+            "year": "2015"
+        },
+        {
+            "title": "Kmin - Dhan Te Nan.mp3",
+            "original_name": "Dhan Te Nan",
+            "artists_name": [
+                "Robert Bob Omulo",
+                "Sukhwinder Singh",
+                "Vishal Dadlani"
+            ],
+            "album": "Kaminey: The Scoundrels",
+            "year": "2009"
+        },
+        {
+            "title": "Kmin - Raat Ke Dhai Baje.mp3",
+            "original_name": "Raat Ke Dhai Baje",
+            "artists_name": [
+                "Rekha Bhardwaj",
+                "Kunal Ganjawala",
+                "Sunidhi Chauhan",
+                "Suresh Wadkar"
+            ],
+            "album": "Kaminey: The Scoundrels",
+            "year": "2009"
+        },
+        {
+            "title": "KN - Khalnayak Hun Main.mp3",
+            "original_name": "Khal Nayak Hoon Main",
+            "artists_name": [
+                "Kavita Krishnamurthy",
+                "Vinod Rathod"
+            ],
+            "album": "Khal Nayak",
+            "year": "1993"
+        },
+        {
+            "title": "Ksri - Ve Maahi.mp3",
+            "original_name": "Ve Maahi",
+            "artists_name": [
+                "Arijit Singh",
+                "Asees Kaur"
+            ],
+            "album": "Kesari",
+            "year": "2019"
+        },
+        {
+            "title": "KHNH - Kal Ho Naa Ho.mp3",
+            "original_name": "Kal Ho Naa Ho",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "Kal Ho Naa Ho",
+            "year": "2003"
+        },
+        {
+            "title": "Klak - Neele Ambar Par.mp3",
+            "original_name": "Neele Neele Ambar Par",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Kalakar",
+            "year": "1942"
+        },
+        {
+            "title": "Junu - Mujhko Barsaat Bana Lo.mp3",
+            "original_name": "Mujhko Barsaat Bana Lo",
+            "artists_name": [
+                "Armaan Malik"
+            ],
+            "album": "Junooniyat",
+            "year": "2016"
+        },
+        {
+            "title": "Jurm - Jab Koi Baat Bigad Jaye.mp3",
+            "original_name": "Jab Koyi Baat Bigad Jaaye",
+            "artists_name": [
+                "Kumar Sanu",
+                "Sadhana Sargam"
+            ],
+            "album": "Jurm",
+            "year": "1990"
+        },
+        {
+            "title": "KANH - Mitwa.mp3",
+            "original_name": "Mitwa",
+            "artists_name": [
+                "Shankar Mahadevan",
+                "Caralisa Monteiro",
+                "Shafqat Amanat Ali"
+            ],
+            "album": "Kabhi Alvida Naa Kehna",
+            "year": "2006"
+        },
+        {
+            "title": "KNPH - Kaho Na Pyaar Hai.mp3",
+            "original_name": "Kaho Na Pyaar Hai",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Kaho Naa... Pyaar Hai",
+            "year": "1999"
+        },
+        {
+            "title": "KNPH - Ek Pal Ka Jeena.mp3",
+            "original_name": "Ek Pal Ka Jeena",
+            "artists_name": [
+                "Lucky Ali"
+            ],
+            "album": "Kaho Naa... Pyaar Hai",
+            "year": "1999"
+        },
+        {
+            "title": "KNPH - Chand Sitare.mp3",
+            "original_name": "Chand Sitare",
+            "artists_name": [
+                "Kavita Krishnamurthy",
+                "Kumar Sanu"
+            ],
+            "album": "Kaho Naa... Pyaar Hai",
+            "year": "1999"
+        },
+        {
+            "title": "KNPH - Pyar Ki Kashti Mein.mp3",
+            "original_name": "Pyar Ki Kashti Mein",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Kaho Naa... Pyaar Hai",
+            "year": "1999"
+        },
+        {
+            "title": "Kbil - Kisi Se Pyar Ho Jaye.mp3",
+            "original_name": "Kisi Se Pyar Ho Jaye",
+            "artists_name": [
+                "Jubin Nautiyal"
+            ],
+            "album": "Kaabil",
+            "year": "2016"
+        },
+        {
+            "title": "Klyg - Jiya Dhadak.mp3",
+            "original_name": "Jiya Dhadak Dhadak",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Kalyug",
+            "year": "1997"
+        },
+        {
+            "title": "Klyg - Aadat.mp3",
+            "original_name": "Aadat",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Kalyug",
+            "year": "2005"
+        },
+        {
+            "title": "Jdw2 - Chalti Hai Kya 9 Se 12.mp3",
+            "original_name": "Chalti Hai Kya 9 Se 12",
+            "artists_name": [
+                "Dev Negi",
+                "Neha Kakkar"
+            ],
+            "album": "Judwaa 2",
+            "year": "2017"
+        },
+        {
+            "title": "KD - Mustafa.mp3",
+            "original_name": "Mustafaa Mustafaa",
+            "artists_name": [
+                "A.R. Rahman"
+            ],
+            "album": "Kadhal Desam",
+            "year": "1996"
+        },
+        {
+            "title": "Jism2 - Abhi Abhi.mp3",
+            "original_name": "Abhi Abhi",
+            "artists_name": [
+                "Akriti Kakar",
+                "KK",
+                "Shreya Ghoshal"
+            ],
+            "album": "Jism 2",
+            "year": "2012"
+        },
+        {
+            "title": "JBJ - Jhoom.mp3",
+            "original_name": "Jhoom",
+            "artists_name": [
+                "Shankar Mahadevan"
+            ],
+            "album": "Jhoom Barabar Jhoom",
+            "year": "2007"
+        },
+        {
+            "title": "JBJ - Bol Na Halke Halke.mp3",
+            "original_name": "Bol Na Halke Halke",
+            "artists_name": [
+                "Mahalakshmi Iyer",
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Jhoom Barabar Jhoom",
+            "year": "2007"
+        },
+        {
+            "title": "J2 - Tujhe Sochta Hoon.mp3",
+            "original_name": "Tujhe Sochta Hoon",
+            "artists_name": [
+                "Pritam Chakraborty"
+            ],
+            "album": "Jannat 2",
+            "year": "2012"
+        },
+        {
+            "title": "J2 - Tera Deedar Hua.mp3",
+            "original_name": "Tera Deedar Hua",
+            "artists_name": [
+                "Javed Ali",
+                "Pritam Chakraborty"
+            ],
+            "album": "Jannat 2",
+            "year": "2012"
+        },
+        {
+            "title": "J2 - Tu Hi Mera.mp3",
+            "original_name": "Tu Hi Mera",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Shafqat Amanat Ali"
+            ],
+            "album": "Jannat 2",
+            "year": "2012"
+        },
+        {
+            "title": "JA - Jashn E Bahaara.mp3",
+            "original_name": "Jashn-E-Bahaara",
+            "artists_name": [
+                "Javed Ali"
+            ],
+            "album": "Jodhaa Akbar",
+            "year": "2008"
+        },
+        {
+            "title": "JA - Khwaja Mere Khwaja.mp3",
+            "original_name": "Khwaja Mere Khwaja",
+            "artists_name": [
+                "A.R. Rahman"
+            ],
+            "album": "Jodhaa Akbar",
+            "year": "2008"
+        },
+        {
+            "title": "J1 - Lambi Judai.mp3",
+            "original_name": "Lambi Judai",
+            "artists_name": [
+                "Richa Sharma"
+            ],
+            "album": "Jannat: In Search of Heaven...",
+            "year": "2008"
+        },
+        {
+            "title": "J1 - Zara Sa.mp3",
+            "original_name": "Zara Sa",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Jannat: In Search of Heaven...",
+            "year": "2008"
+        },
+        {
+            "title": "J1 - Haan Tu Hain.mp3",
+            "original_name": "Haan Tu Hain",
+            "artists_name": [
+                "KK",
+                "Pritam Chakraborty"
+            ],
+            "album": "Jannat: In Search of Heaven...",
+            "year": "2008"
+        },
+        {
+            "title": "J1 - Jannatein Kahan (1).mp3",
+            "original_name": "Jannatein Kahan",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Jannat: In Search of Heaven...",
+            "year": "2008"
+        },
+        {
+            "title": "JH - Tere Naina Maar Hi Daalenge.mp3",
+            "original_name": "Tere Naina Maar Hi Daalenge",
+            "artists_name": [
+                "Shaan",
+                "Shabab Sabri",
+                "Shreya Ghoshal"
+            ],
+            "album": "Jai Ho",
+            "year": "2014"
+        },
+        {
+            "title": "JH - Tumko To Aana Hi Tha.mp3",
+            "original_name": "Tumko To Aana Hi Tha",
+            "artists_name": [
+                "Altamash Faridi",
+                "Armaan Malik",
+                "Marianne D'Cruz"
+            ],
+            "album": "Jai Ho",
+            "year": "2014"
+        },
+        {
+            "title": "JJWS - Pehla Nasha.mp3",
+            "original_name": "Pehla Nasha",
+            "artists_name": [
+                "Sadhana Sargam",
+                "Udit Narayan"
+            ],
+            "album": "Jo Jeeta Wohi Sikandar",
+            "year": "1992"
+        },
+        {
+            "title": "JL - Go Pagal.mp3",
+            "original_name": "Go Pagal",
+            "artists_name": [
+                "Nindy Kaur",
+                "Raftaar"
+            ],
+            "album": "Jolly LLB 2",
+            "year": "2017"
+        },
+        {
+            "title": "JV - Tennu Le.mp3",
+            "original_name": "Tennu Le",
+            "artists_name": [
+                "Ntedit",
+                "Omer Inayat"
+            ],
+            "album": "Jai Veeru",
+            "year": "2009"
+        },
+        {
+            "title": "Jlbi - Pal.mp3",
+            "original_name": "Pal",
+            "artists_name": [
+                "Arijit Singh",
+                "Shreya Ghoshal"
+            ],
+            "album": "Jalebi",
+            "year": "2018"
+        },
+        {
+            "title": "Jakp - Kabhi Jo Baadal Barse.mp3",
+            "original_name": "Kabhi Jo Baadal Barse",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Jackpot",
+            "year": "2019"
+        },
+        {
+            "title": "JTHJ - Challa.mp3",
+            "original_name": "Challa",
+            "artists_name": [
+                "Rabbi Shergill"
+            ],
+            "album": "Jab Tak Hai Jaan",
+            "year": "2012"
+        },
+        {
+            "title": "JTHJ - Jiya Re.mp3",
+            "original_name": "Jiya Re",
+            "artists_name": [
+                "Neeti Mohan"
+            ],
+            "album": "Jab Tak Hai Jaan",
+            "year": "2012"
+        },
+        {
+            "title": "JTHJ - Ishq Shava.mp3",
+            "original_name": "Ishq Shava",
+            "artists_name": [
+                "Raghav",
+                "Shilpa Rao"
+            ],
+            "album": "Jab Tak Hai Jaan",
+            "year": "2012"
+        },
+        {
+            "title": "JJ - Galti Se Mistake.mp3",
+            "original_name": "Galti Se Mistake",
+            "artists_name": [
+                "Amit Mishra",
+                "Arijit Singh"
+            ],
+            "album": "Jagga Jasoos",
+            "year": "2017"
+        },
+        {
+            "title": "Ijaz - Chhoti Si Kahani Se.mp3",
+            "original_name": "Chhoti Si Kahani Se",
+            "artists_name": [
+                "Asha Bhosle"
+            ],
+            "album": "Ijaazat",
+            "year": "1987"
+        },
+        {
+            "title": "JTYJN - Pappu Can't Dance.mp3",
+            "original_name": "Pappu Can't Dance Saala",
+            "artists_name": [
+                "Anupama Deshpande",
+                "Benny Dayal",
+                "Blaze",
+                "Darshana Mohammad Aslam",
+                "Satish Subramanium",
+                "Tanvi Shah",
+                "A. R. Rahman"
+            ],
+            "album": "Jaane Tu\u2026 Ya Jaane Na",
+            "year": "2008"
+        },
+        {
+            "title": "JJPK - Pardesiyon Se Na Akhiyan Milana.mp3",
+            "original_name": "Pardesiyon Se Na Ankhiyan Milana",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "Jab Jab Phool Khile",
+            "year": "1965"
+        },
+        {
+            "title": "JTYJN - Kabhi Kabhi Aditi Zindagi.mp3",
+            "original_name": "Kabhi Kabhi Aditi",
+            "artists_name": [
+                "Rashid Ali"
+            ],
+            "album": "Jaane Tu\u2026 Ya Jaane Na",
+            "year": "2008"
+        },
+        {
+            "title": "JTYJN - Kahin To Hogi Woh.mp3",
+            "original_name": "Kahin To Hogi Woh",
+            "artists_name": [
+                "Rashid Ali",
+                "Vasundhara Das"
+            ],
+            "album": "Jaane Tu\u2026 Ya Jaane Na",
+            "year": "2008"
+        },
+        {
+            "title": "Jnwr - Tujhko Na Dekhun.mp3",
+            "original_name": "Tujhko Na Dekhun",
+            "artists_name": [
+                "Sunidhi Chauhan",
+                "Udit Narayan"
+            ],
+            "album": "Jaanwar",
+            "year": "1999"
+        },
+        {
+            "title": "JHMS - Hawayein.mp3",
+            "original_name": "Hawayein",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Jab Harry met Sejal",
+            "year": "2017"
+        },
+        {
+            "title": "Ishq - Nind Churayi Meri.mp3",
+            "original_name": "Neend Churayee Meri",
+            "artists_name": [
+                "Udit Narayan",
+                "Kumar Sanu",
+                "Kavita Krishnamurthy",
+                "Alka Yagnik"
+            ],
+            "album": "Ishq",
+            "year": "1997"
+        },
+        {
+            "title": "JWM - Aaoge Jab Tum.mp3",
+            "original_name": "Aaoge Jab Tum",
+            "artists_name": [
+                "Rashid Khan"
+            ],
+            "album": "Jab We Met",
+            "year": "2007"
+        },
+        {
+            "title": "JWM - Tumse Hi.mp3",
+            "original_name": "Tum Se Hi",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Jab We Met",
+            "year": "2007"
+        },
+        {
+            "title": "JWM - Mauja Hi Mauja.mp3",
+            "original_name": "Mauja Hi Mauja",
+            "artists_name": [
+                "Mika Singh"
+            ],
+            "album": "Jab We Met",
+            "year": "2007"
+        },
+        {
+            "title": "JWM - Yeh Ishq Hai.mp3",
+            "original_name": "Ye Ishq Hai",
+            "artists_name": [
+                "Shreya Ghoshal"
+            ],
+            "album": "Jab We Met",
+            "year": "2007"
+        },
+        {
+            "title": "JWM - Aao Milo Chalo.mp3",
+            "original_name": "Aao Milo Chalo",
+            "artists_name": [
+                "Shaan",
+                "Sultan Khan"
+            ],
+            "album": "Jab We Met",
+            "year": "2007"
+        },
+        {
+            "title": "Hngm - Chain Aap Ko Mila.mp3",
+            "original_name": "Chain Aap Ko",
+            "artists_name": [
+                "Sadhana Sargam",
+                "Shaan"
+            ],
+            "album": "Hungama",
+            "year": "2003"
+        },
+        {
+            "title": "Hngm - Hum To Hain Tere Dostoon Mein.mp3",
+            "original_name": "Hum Nahin",
+            "artists_name": [
+                "Abhijeet Bhattacharya",
+                "Alka Yagnik",
+                "Sonu Nigam"
+            ],
+            "album": "Hungama",
+            "year": "2003"
+        },
+        {
+            "title": "Hmjl - Dhal Gaya Din.mp3",
+            "original_name": "Dhal Gaya Din Ho Gayi Sham",
+            "artists_name": [
+                "Asha Bhosle",
+                "Mohammed Rafi"
+            ],
+            "album": "Humjoli",
+            "year": "1970"
+        },
+        {
+            "title": "Hmsk - Caller Tune.mp3",
+            "original_name": "Caller Tune",
+            "artists_name": [
+                "Neeraj Shridhar",
+                "Neeti Mohan"
+            ],
+            "album": "Humshakal",
+            "year": "2014"
+        },
+        {
+            "title": "IHLS - Bin Tere.mp3",
+            "original_name": "Bin Tere",
+            "artists_name": [
+                "Shafqat Amanat Ali",
+                "Sunidhi Chauhan",
+                "Vishal-Shekhar"
+            ],
+            "album": "I Hate Luv Storys",
+            "year": "2010"
+        },
+        {
+            "title": "IHLS - Bahara.mp3",
+            "original_name": "Bahara",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Sona Mohapatra",
+                "Vishal-Shekhar"
+            ],
+            "album": "I Hate Luv Storys",
+            "year": "2010"
+        },
+        {
+            "title": "HAHK - Wah Wah Ramji.mp3",
+            "original_name": "Wah Wah Ramji",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "S. P. Balasubrahmanyam"
+            ],
+            "album": "Hum Aapke Hain Koun..!",
+            "year": "1994"
+        },
+        {
+            "title": "IMAM - Saajna.mp3",
+            "original_name": "Saajna",
+            "artists_name": [
+                "Falak Shabir"
+            ],
+            "album": "I, Me aur Main",
+            "year": "2013"
+        },
+        {
+            "title": "Hum - Jumma Chumma De De.mp3",
+            "original_name": "Jumma Chumma De De",
+            "artists_name": [
+                "Kavita Krishnamurthy",
+                "Sudesh Bhosale"
+            ],
+            "album": "Hum",
+            "year": "1991"
+        },
+        {
+            "title": "HKKN - Kya Hua Tera Vada.mp3",
+            "original_name": "Kya Hua Tera Wada",
+            "artists_name": [
+                "Sushma Shreshta",
+                "R. D. Burman",
+                "Mohammed Rafi"
+            ],
+            "album": "Hum Kisise Kum Naheen",
+            "year": "1977"
+        },
+        {
+            "title": "Hles - Soniye.mp3",
+            "original_name": "Soniye",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Heartless",
+            "year": "2014"
+        },
+        {
+            "title": "Hles - Main Dhoondne Ko Zamaane Mein.mp3",
+            "original_name": "Main Dhoondne Ko Zamaane Mein",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Heartless",
+            "year": "2014"
+        },
+        {
+            "title": "HB - Teri Chunariya.mp3",
+            "original_name": "Teri Chunariya",
+            "artists_name": [
+                "Alka Yagnik",
+                "Himesh Reshammiya",
+                "Kumar Sanu"
+            ],
+            "album": "Hello Brother",
+            "year": "1999"
+        },
+        {
+            "title": "Hero - Main Hoon Hero Tera.mp3",
+            "original_name": "Main Hoon Hero Tera",
+            "artists_name": [
+                "Salman Khan"
+            ],
+            "album": "Hero",
+            "year": "2015"
+        },
+        {
+            "title": "Hlid - Aaj Dil Shayarana.mp3",
+            "original_name": "Shaayraana",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Holiday: A Soldier Is Never Off Duty",
+            "year": "2014"
+        },
+        {
+            "title": "Hlid - Tu Hi Toh Hai.mp3",
+            "original_name": "Tu Hi Toh Hai",
+            "artists_name": [
+                "Kunal Ganjawala"
+            ],
+            "album": "Holiday: A Soldier Is Never Off Duty",
+            "year": "2014"
+        },
+        {
+            "title": "Hrop - Whistle Baja.mp3",
+            "original_name": "Whistle Baja",
+            "artists_name": [
+                "Manj Musik",
+                "Nindy Kaur"
+            ],
+            "album": "Heropanti",
+            "year": "2014"
+        },
+        {
+            "title": "Hrop - Tere Binaa.mp3",
+            "original_name": "Tere Binaa",
+            "artists_name": [
+                "Mustafa Zahid"
+            ],
+            "album": "Heropanti",
+            "year": "2014"
+        },
+        {
+            "title": "H3 - Tum Ho Mera Pyar.mp3",
+            "original_name": "Tum Ho Mera Pyar",
+            "artists_name": [
+                "KK",
+                "Suzanne D'Mello"
+            ],
+            "album": "Haunted - 3D",
+            "year": "2011"
+        },
+        {
+            "title": "Hiwy - Maahi Ve.mp3",
+            "original_name": "Maahi Ve",
+            "artists_name": [
+                "A. R. Rahman"
+            ],
+            "album": "Highway",
+            "year": "2014"
+        },
+        {
+            "title": "HS2 - Hai Dil Ye Mera.mp3",
+            "original_name": "Hai Dil Ye Mera",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Hate Story 2",
+            "year": "2014"
+        },
+        {
+            "title": "H2 - Do U Know.mp3",
+            "original_name": "Do U Know",
+            "artists_name": [
+                "Shaan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Housefull 2",
+            "year": "2012"
+        },
+        {
+            "title": "H2 - Right Now Now.mp3",
+            "original_name": "Right Now Now",
+            "artists_name": [
+                "Suzanne D'Mello",
+                "Wajid Ali",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Housefull 2",
+            "year": "2012"
+        },
+        {
+            "title": "HS3 - Tumhe Apna Banane Ka.mp3",
+            "original_name": "Tumhe Apna Banane Ka",
+            "artists_name": [
+                "Armaan Malik",
+                "Neeti Mohan"
+            ],
+            "album": "Hate Story 3",
+            "year": "2015"
+        },
+        {
+            "title": "HS3 - Wajah Tum Ho.mp3",
+            "original_name": "Wajah Tum Ho",
+            "artists_name": [
+                "Abhijit Vaghani",
+                "Gourov-Roshin"
+            ],
+            "album": "Hate Story 3",
+            "year": "2015"
+        },
+        {
+            "title": "GGG - Babaji Ki Booti.mp3",
+            "original_name": "Babaji Ki Booti",
+            "artists_name": [
+                "Kunal Khemu",
+                "Bornalee Deuri",
+                "Sachin-Jigar",
+                "Raj Nidimoru",
+                "Krishna D.K.",
+                "Anand Tiwari"
+            ],
+            "album": "Go Goa Gone",
+            "year": "2013"
+        },
+        {
+            "title": "Gude - Gata Rahe Mera Dil.mp3",
+            "original_name": "Gaata Rahe Mera Dil",
+            "artists_name": [
+                "Kishore Kumar",
+                "Lata Mangeshkar"
+            ],
+            "album": "Guide",
+            "year": "1965"
+        },
+        {
+            "title": "HNY - Manwa Laage.mp3",
+            "original_name": "Manwa laage",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Arijit Singh"
+            ],
+            "album": "Happy New Year",
+            "year": "2014"
+        },
+        {
+            "title": "HNY - Satakli.mp3",
+            "original_name": "Satakli",
+            "artists_name": [
+                "Sukhwinder Singh"
+            ],
+            "album": "Happy New Year",
+            "year": "2014"
+        },
+        {
+            "title": "HG - Baarish.mp3",
+            "original_name": "Baarish",
+            "artists_name": [
+                "Ash King",
+                "Shashaa Tirupati"
+            ],
+            "album": "Half Girlfriend",
+            "year": "2017"
+        },
+        {
+            "title": "HNY - Lovely.mp3",
+            "original_name": "Lovely",
+            "artists_name": [
+                "Kanika Kapoor",
+                "Ravindra Upadhyay",
+                "Fateh",
+                "Miraya Varma"
+            ],
+            "album": "Happy New Year",
+            "year": "2014"
+        },
+        {
+            "title": "GBBB - Ashiqana Aalam.mp3",
+            "original_name": "Ashiqana Aalam",
+            "artists_name": [
+                "Alka Yagnik",
+                "Himesh Reshammiya",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Good Boy, Bad Boy",
+            "year": "2007"
+        },
+        {
+            "title": "HAK - Humnava.mp3",
+            "original_name": "Humnava",
+            "artists_name": [
+                "Papon"
+            ],
+            "album": "Hamari Adhuri Kahani",
+            "year": "2015"
+        },
+        {
+            "title": "HAK - Hamari Adhuri Kahani.mp3",
+            "original_name": "Hamari Adhuri Kahani",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Hamari Adhuri Kahani",
+            "year": "2015"
+        },
+        {
+            "title": "HAK - Hasi (Male).mp3",
+            "original_name": "Hasi",
+            "artists_name": [
+                "Ami Mishra"
+            ],
+            "album": "Hamari Adhuri Kahani",
+            "year": "2015"
+        },
+        {
+            "title": "HAK - Hasi (Female).mp3",
+            "original_name": "Hasi (Female)",
+            "artists_name": [
+                "Shreya Ghoshal"
+            ],
+            "album": "Hamari Adhuri Kahani",
+            "year": "2015"
+        },
+        {
+            "title": "Gulm - Aankhon Se Tune Kya Keh Diya.mp3",
+            "original_name": "Aankhon Se Tune Kya Keh Diya",
+            "artists_name": [
+                "Kumar Sanu",
+                "Alka Yagnik"
+            ],
+            "album": "Ghulam",
+            "year": "1998"
+        },
+        {
+            "title": "Gund - Tune Maari Entriyaan.mp3",
+            "original_name": "Tune Maari Entriyaan",
+            "artists_name": [
+                "Vishal Dadlani",
+                "Bappi Lahiri",
+                "KK",
+                "Neeti Mohan"
+            ],
+            "album": "Gunday",
+            "year": "2013"
+        },
+        {
+            "title": "Gsrh - Udi Tere Aankhoin Se.mp3",
+            "original_name": "Udi Tere Aankhoin Se",
+            "artists_name": [
+                "Shail Hada",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Guzaarish",
+            "year": "2010"
+        },
+        {
+            "title": "Gund - Jashn E Ishqa.mp3",
+            "original_name": "Jashn-e-Ishqa",
+            "artists_name": [
+                "Javed Ali",
+                "Shadab Faridi"
+            ],
+            "album": "Gunday",
+            "year": "2013"
+        },
+        {
+            "title": "Gund - Saaiyaan.mp3",
+            "original_name": "Saaiyaan",
+            "artists_name": [
+                "Shahid Mallya"
+            ],
+            "album": "Gunday",
+            "year": "2013"
+        },
+        {
+            "title": "Fshn - Mar Jawaan.mp3",
+            "original_name": "Mar Jaava",
+            "artists_name": [
+                "Shruti Pathak",
+                "Salim Merchant",
+                "Salim-Sulaiman"
+            ],
+            "album": "Fashion",
+            "year": "2008"
+        },
+        {
+            "title": "Fgly - Banjarey.mp3",
+            "original_name": "Banjarey",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Fugly",
+            "year": "2014"
+        },
+        {
+            "title": "Fna - Mere Hath Mein.mp3",
+            "original_name": "Mere Haath Mein",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "Fanaa",
+            "year": "2006"
+        },
+        {
+            "title": "Fna - Chand Sifarish.mp3",
+            "original_name": "Chand Sifarish",
+            "artists_name": [
+                "Kailash Kher",
+                "Shaan"
+            ],
+            "album": "Fanaa",
+            "year": "2006"
+        },
+        {
+            "title": "GIB - Teri Meri Kahaani.mp3",
+            "original_name": "Teri Meri Kahani",
+            "artists_name": [
+                "Arijit Singh",
+                "Palak Muchhal"
+            ],
+            "album": "Gabbar is Back",
+            "year": "2015"
+        },
+        {
+            "title": "Gjni - Kaise Mujhe.mp3",
+            "original_name": "Kaise Mujhe",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Benny Dayal"
+            ],
+            "album": "Ghajini",
+            "year": "2008"
+        },
+        {
+            "title": "Gjni - Guzarish.mp3",
+            "original_name": "Guzarish",
+            "artists_name": [
+                "Sonu Nigam",
+                "Javed Ali"
+            ],
+            "album": "Ghajini",
+            "year": "2008"
+        },
+        {
+            "title": "Gngs - Lamha Lamha.mp3",
+            "original_name": "Lamha Lamha",
+            "artists_name": [
+                "Abhijeet Bhattacharya"
+            ],
+            "album": "Gangster: A Love Story",
+            "year": "2006"
+        },
+        {
+            "title": "Gngs - Ya Ali.mp3",
+            "original_name": "Ya Ali",
+            "artists_name": [
+                "Zubeen Garg"
+            ],
+            "album": "Gangster: A Love Story",
+            "year": "2006"
+        },
+        {
+            "title": "Gngs - Tu Hi Meri Shab Hai.mp3",
+            "original_name": "Tu Hi Meri Shab Hai",
+            "artists_name": [
+                "KK",
+                "Pritam Chakraborty"
+            ],
+            "album": "Gangster: A Love Story",
+            "year": "2006"
+        },
+        {
+            "title": "Gngs - Bheegi Bheegi.mp3",
+            "original_name": "Bheegi Bheegi",
+            "artists_name": [
+                "James"
+            ],
+            "album": "Gangster: A Love Story",
+            "year": "2006"
+        },
+        {
+            "title": "GfBf - Gf Bf.mp3",
+            "original_name": "GF BF",
+            "artists_name": [
+                "Gurinder Seagal",
+                "Jacqueline Fernandez"
+            ],
+            "album": "GF BF",
+            "year": "2016"
+        },
+        {
+            "title": "Fkry - Ambarsariya.mp3",
+            "original_name": "Ambarsariya",
+            "artists_name": [
+                "Munna Dhiman",
+                "Ram Sampath",
+                "Sona Mohapatra"
+            ],
+            "album": "Fukrey",
+            "year": "2013"
+        },
+        {
+            "title": "Entm - Veerey Di Wedding.mp3",
+            "original_name": "Veerey Di Wedding",
+            "artists_name": [
+                "Mika Singh"
+            ],
+            "album": "Entertainment",
+            "year": "2014"
+        },
+        {
+            "title": "Entm - Johnny Johnny.mp3",
+            "original_name": "Johnny Johnny",
+            "artists_name": [
+                "Jigar",
+                "Priya Panchal",
+                "Madhav Krishna"
+            ],
+            "album": "Entertainment",
+            "year": "2014"
+        },
+        {
+            "title": "Entm - Tera Naam Doon.mp3",
+            "original_name": "Tera Naam Doon",
+            "artists_name": [
+                "Atif Aslam",
+                "Shalmali Kholgade"
+            ],
+            "album": "Entertainment",
+            "year": "2014"
+        },
+        {
+            "title": "Dlwl - Tukur Tukur.mp3",
+            "original_name": "Tukur Tukur",
+            "artists_name": [
+                "Pritam Chakraborty"
+            ],
+            "album": "Dilwale",
+            "year": "2015"
+        },
+        {
+            "title": "DMD - Te Amo (Duet).mp3",
+            "original_name": "Te Amo (Duet)",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Ash King",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Dum Maaro Dum",
+            "year": "2011"
+        },
+        {
+            "title": "Dlwl - Manma Emotion Jaage.mp3",
+            "original_name": "Manma Emotion Jaage",
+            "artists_name": [
+                "Antara Mitra",
+                "Anushka Manchanda",
+                "Pritam Chakraborty"
+            ],
+            "album": "Dilwale",
+            "year": "2015"
+        },
+        {
+            "title": "Dlwl - Gerua.mp3",
+            "original_name": "Gerua",
+            "artists_name": [
+                "Antara Mitra",
+                "Arijit Singh",
+                "Pritam Chakraborty"
+            ],
+            "album": "Dilwale",
+            "year": "2015"
+        },
+        {
+            "title": "Dlwl - Daayre.mp3",
+            "original_name": "Daayre",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Dilwale",
+            "year": "2015"
+        },
+        {
+            "title": "Dlwl - Premika.mp3",
+            "original_name": "Premika",
+            "artists_name": [
+                "Benny Dayal",
+                "Kanika Kapoor",
+                "Pritam Chakraborty"
+            ],
+            "album": "Dilwale",
+            "year": "2015"
+        },
+        {
+            "title": "EV - Banjaara.mp3",
+            "original_name": "Baanjara",
+            "artists_name": [
+                "Mohammed Irfan"
+            ],
+            "album": "Ek Villain",
+            "year": "2014"
+        },
+        {
+            "title": "EV - Zaroorat.mp3",
+            "original_name": "Zaroorat",
+            "artists_name": [
+                "Mustafa Zahid"
+            ],
+            "album": "Ek Villain",
+            "year": "2014"
+        },
+        {
+            "title": "EV - Hamdard.mp3",
+            "original_name": "Humdard",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Ek Villain",
+            "year": "2014"
+        },
+        {
+            "title": "EV - Galliyan.mp3",
+            "original_name": "Galliyan",
+            "artists_name": [
+                "Ankit Tiwari"
+            ],
+            "album": "Ek Villain",
+            "year": "2014"
+        },
+        {
+            "title": "Dstn - Shut Up And Bounce.mp3",
+            "original_name": "Shut Up & Bounce",
+            "artists_name": [
+                "Vishal-Shekhar"
+            ],
+            "album": "Dostana",
+            "year": "2008"
+        },
+        {
+            "title": "Dstn - Jaane Kyun.mp3",
+            "original_name": "Jaane Kyun",
+            "artists_name": [
+                "Vishal-Shekhar"
+            ],
+            "album": "Dostana",
+            "year": "2008"
+        },
+        {
+            "title": "Dus - Dus Bahane.mp3",
+            "original_name": "Dus Bahane",
+            "artists_name": [
+                "KK",
+                "Shaan",
+                "Vishal-Shekhar"
+            ],
+            "album": "Dus",
+            "year": "2005"
+        },
+        {
+            "title": "Dstn - Khabar Nahi.mp3",
+            "original_name": "Khabar Nahi",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Amanat Ali",
+                "Raja Hasan",
+                "Vishal Dadlani"
+            ],
+            "album": "Dostana",
+            "year": "2008"
+        },
+        {
+            "title": "EMAET - Ek Main Aur Ekk Tu.mp3",
+            "original_name": "Ek Main Aur Ekk Tu",
+            "artists_name": [
+                "Benny Dayal",
+                "Anushka Manchanda"
+            ],
+            "album": "Ek Main Aur Ekk Tu",
+            "year": "2012"
+        },
+        {
+            "title": "ETT - Saiyaara.mp3",
+            "original_name": "Saiyaara",
+            "artists_name": [
+                "Mohit Chauhan",
+                "Tarannum Mallik"
+            ],
+            "album": "Ek Tha Tiger",
+            "year": "2012"
+        },
+        {
+            "title": "EMAET - Gubbare.mp3",
+            "original_name": "Gubbare",
+            "artists_name": [
+                "Amit Trivedi"
+            ],
+            "album": "Ek Main Aur Ekk Tu",
+            "year": "2012"
+        },
+        {
+            "title": "ETD - Hosanna.mp3",
+            "original_name": "Hosanna",
+            "artists_name": [
+                "A. R. Rahman",
+                "Leon D'Souza",
+                "Suzanne D'Mello"
+            ],
+            "album": "Ekk Deewana Tha",
+            "year": "2012"
+        },
+        {
+            "title": "ETT - Laapata.mp3",
+            "original_name": "Laapata",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Ek Tha Tiger",
+            "year": "2012"
+        },
+        {
+            "title": "DLKK - Kuch To Hai.mp3",
+            "original_name": "Kuch To Hai",
+            "artists_name": [
+                "Armaan Malik"
+            ],
+            "album": "Do Lafzon Ki Kahani",
+            "year": "2016"
+        },
+        {
+            "title": "Dskn - Tu Hi Hai Aashiqui.mp3",
+            "original_name": "Tu Hi Hai Aashiqui",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Dishkiyaoon",
+            "year": "2014"
+        },
+        {
+            "title": "DAAPP - Ajeeb Dastan Hai Yeh.mp3",
+            "original_name": "Ajeeb Dastan Hai Yeh",
+            "artists_name": [
+                "Lata Mangeshkar"
+            ],
+            "album": "Dil Apna Aur Preet Parai",
+            "year": "1960"
+        },
+        {
+            "title": "Dhkn - Tum Dil Ki Dhadkan.mp3",
+            "original_name": "Tum Dil Ki Dhadkan Mein",
+            "artists_name": [
+                "Abhijeet Bhattacharya",
+                "Alka Yagnik"
+            ],
+            "album": "Dhadkan",
+            "year": "2000"
+        },
+        {
+            "title": "DB - Switty Tera Pyaar Chaida.mp3",
+            "original_name": "Switty Tera Pyaar Chaida",
+            "artists_name": [
+                "Ram Sampath"
+            ],
+            "album": "Delhi Belly",
+            "year": "2011"
+        },
+        {
+            "title": "Dvds - Dola Re Dola.mp3",
+            "original_name": "Dola Re Dola",
+            "artists_name": [
+                "KK",
+                "Kavita Krishnamurthy",
+                "Shreya Ghoshal"
+            ],
+            "album": "Devdas",
+            "year": "2002"
+        },
+        {
+            "title": "DDLJ - Ruk Ja O Dil Deewane.mp3",
+            "original_name": "Ruk Ja O Dil Deewane",
+            "artists_name": [
+                "Udit Narayan"
+            ],
+            "album": "Dilwale Dulhania Le Jayenge",
+            "year": "1995"
+        },
+        {
+            "title": "DTPH - Are Re Are.mp3",
+            "original_name": "Are Re Are",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Udit Narayan"
+            ],
+            "album": "Dil To Pagal Hai",
+            "year": "1997"
+        },
+        {
+            "title": "DTBHJ - Abhi Kuch Dino Se.mp3",
+            "original_name": "Abhi Kuch Dino Se",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Dil Toh Baccha Hai Ji",
+            "year": "2011"
+        },
+        {
+            "title": "DTPH - Chand Ne Kuch Kaha.mp3",
+            "original_name": "Chand Ne Kuchh Kaha",
+            "artists_name": [
+                "Lata Mangeshkar"
+            ],
+            "album": "Dil To Pagal Hai",
+            "year": "1997"
+        },
+        {
+            "title": "D3 - Bande Hain Hum Uske.mp3",
+            "original_name": "Bande Hain Hum Uske",
+            "artists_name": [
+                "Anish Sharma",
+                "Shivam Mahadevan"
+            ],
+            "album": "Dhoom 3",
+            "year": "2013"
+        },
+        {
+            "title": "D3 - Kamli.mp3",
+            "original_name": "Kamli",
+            "artists_name": [
+                "Sunidhi Chauhan"
+            ],
+            "album": "Dhoom 3",
+            "year": "2013"
+        },
+        {
+            "title": "DDD - Rishte Naate.mp3",
+            "original_name": "Rishte Naate",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Suzanne D'Mello"
+            ],
+            "album": "De Dana Dan",
+            "year": "2009"
+        },
+        {
+            "title": "Dhol - Bheega Aasman.mp3",
+            "original_name": "Bheega Aasman",
+            "artists_name": [
+                "Shaan",
+                "Vijay Yesudas"
+            ],
+            "album": "Dhol",
+            "year": "2007"
+        },
+        {
+            "title": "Dhek - Sawan Barse Tarse Dil.mp3",
+            "original_name": "Sawan Barse Tarse Dil",
+            "artists_name": [
+                "Hariharan",
+                "Sadhana Sargam"
+            ],
+            "album": "Dahek",
+            "year": "1999"
+        },
+        {
+            "title": "CC - Suno Na Suno Na (Remix).mp3",
+            "original_name": "Suno Na Suno Na",
+            "artists_name": [
+                "Abhijeet Bhattacharya"
+            ],
+            "album": "Chalte Chalte",
+            "year": "2003"
+        },
+        {
+            "title": "Crook - Tujhko Jo Paaya.mp3",
+            "original_name": "Tujhko Jo Paaya",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Crook",
+            "year": "2010"
+        },
+        {
+            "title": "Crook - Mere Bina.mp3",
+            "original_name": "Mere Bina",
+            "artists_name": [
+                "Nikhil D'Souza",
+                "Pritam Chakraborty"
+            ],
+            "album": "Crook",
+            "year": "2010"
+        },
+        {
+            "title": "Ctyl - Muskurane.mp3",
+            "original_name": "Muskurane",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "CityLights",
+            "year": "2014"
+        },
+        {
+            "title": "D6 - Genda Phool.mp3",
+            "original_name": "Genda Phool",
+            "artists_name": [
+                "Rekha Bharadwaj",
+                "Shraddha Pandit",
+                "Sujata Majumdar"
+            ],
+            "album": "Delhi-6",
+            "year": "2009"
+        },
+        {
+            "title": "C3D - Naam-E-Wafa.mp3",
+            "original_name": "Naam-E-Wafa",
+            "artists_name": [
+                "Farhan Saeed",
+                "Tulsi Kumar"
+            ],
+            "album": "Creature 3D",
+            "year": "2014"
+        },
+        {
+            "title": "D6 - Masakali.mp3",
+            "original_name": "Masakali",
+            "artists_name": [
+                "Mohit Chauhan"
+            ],
+            "album": "Delhi-6",
+            "year": "2009"
+        },
+        {
+            "title": "Dbng - Dagabaaz Re.mp3",
+            "original_name": "Dagabaaz Re",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Shadab Faridi",
+                "Shreya Ghoshal"
+            ],
+            "album": "Dabangg 2",
+            "year": "2012"
+        },
+        {
+            "title": "CE - Tera Rastaa Chhodoon Na.mp3",
+            "original_name": "Tera Rastaa Chhodoon",
+            "artists_name": [
+                "Amitabh Bhattacharya",
+                "Anusha Mani"
+            ],
+            "album": "Chennai Express",
+            "year": "2013"
+        },
+        {
+            "title": "CE - Titli.mp3",
+            "original_name": "Titli",
+            "artists_name": [
+                "Chinmayi",
+                "Gopi Sundar"
+            ],
+            "album": "Chennai Express",
+            "year": "2013"
+        },
+        {
+            "title": "DI - Tu Hi Rab Tu Hi Dua.mp3",
+            "original_name": "Tu Hi Rab Tu Hi Dua",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Tulsi Kumar"
+            ],
+            "album": "Dangerous Ishhq",
+            "year": "2012"
+        },
+        {
+            "title": "Brdr - Sandeshe Aate Hain.mp3",
+            "original_name": "Sandese Aate Hai",
+            "artists_name": [
+                "Roopkumar Rathod",
+                "Sonu Nigam"
+            ],
+            "album": "Border",
+            "year": "1999"
+        },
+        {
+            "title": "BuR - Saamne Hai Savera.mp3",
+            "original_name": "Saamne Hai Savera",
+            "artists_name": [
+                "Bonnie Chakraborty",
+                "Shreya Ghoshal",
+                "Wajid Ali"
+            ],
+            "album": "Bullett Raja",
+            "year": "2013"
+        },
+        {
+            "title": "BuR - Tamanche Pe Disco.mp3",
+            "original_name": "Tamanche Pe Disco",
+            "artists_name": [
+                "Nindy Kaur",
+                "Raftaar"
+            ],
+            "album": "Bullett Raja",
+            "year": "2013"
+        },
+        {
+            "title": "Bos - Har Kisi Ko.mp3",
+            "original_name": "Har Kisi Ko",
+            "artists_name": [
+                "Arijit Singh",
+                "Neeti Mohan"
+            ],
+            "album": "Boss",
+            "year": "2013"
+        },
+        {
+            "title": "BMG - Raat Kali Ek Khwab.mp3",
+            "original_name": "Raat Kali Ek Khawab Mein Aayi",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Buddha Mil Gaya",
+            "year": "1971"
+        },
+        {
+            "title": "CC - Chalte Chalte Mere Yeh Geet.mp3",
+            "original_name": "Chalte Chalte",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Chalte Chalte",
+            "year": "1976"
+        },
+        {
+            "title": "Bros - Sapna Jahan.mp3",
+            "original_name": "Sapna Jahan",
+            "artists_name": [
+                "Sonu Nigam",
+                "Neeti Mohan",
+                "Ajay-Atul"
+            ],
+            "album": "Brothers",
+            "year": "2015"
+        },
+        {
+            "title": "CDKC - Kangna Tera Ni Lumber.mp3",
+            "original_name": "Kangna Tera Ni",
+            "artists_name": [
+                "Dr Zeus",
+                "Lumber"
+            ],
+            "album": "Chaar Din Ki Chandni",
+            "year": "2012"
+        },
+        {
+            "title": "BKB - Adhoore.mp3",
+            "original_name": "Adhoore",
+            "artists_name": [
+                "Alyssa Mendonsa",
+                "Vishal Dadlani"
+            ],
+            "album": "Break Ke Baad",
+            "year": "2010"
+        },
+        {
+            "title": "Crvn - Piya Tu Ab to Aaja.mp3",
+            "original_name": "Piya Tu Ab To Aaja",
+            "artists_name": [
+                "Asha Bhosle"
+            ],
+            "album": "Caravan",
+            "year": "1971"
+        },
+        {
+            "title": "Bdyg - I Love You.mp3",
+            "original_name": "I Love You",
+            "artists_name": [
+                "Ash King",
+                "Clinton Cerejo"
+            ],
+            "album": "Bodyguard",
+            "year": "2011"
+        },
+        {
+            "title": "Bmal - Pal Pal Dil Ke Paas.mp3",
+            "original_name": "Pal Pal Dil Ke Paas",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Blackmail",
+            "year": "1973"
+        },
+        {
+            "title": "Bdyg - Teri Meri.mp3",
+            "original_name": "Teri Meri",
+            "artists_name": [
+                "Rahat Fateh Ali Khan",
+                "Shreya Ghoshal"
+            ],
+            "album": "Bodyguard",
+            "year": "2011"
+        },
+        {
+            "title": "BhB - Bhagam Bhag.mp3",
+            "original_name": "Bhagam Bhag",
+            "artists_name": [
+                "Neeraj Shridhar"
+            ],
+            "album": "Bhagam Bhag",
+            "year": "2006"
+        },
+        {
+            "title": "BhB - Tere Bin.mp3",
+            "original_name": "Tere Bin",
+            "artists_name": [
+                "Kunal Ganjawala",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Bhagam Bhag",
+            "year": "2006"
+        },
+        {
+            "title": "BM - Jo Tere Sang.mp3",
+            "original_name": "Jo Tere Sang",
+            "artists_name": [
+                "Jeet Ganguly",
+                "Mustafa Zahid"
+            ],
+            "album": "Blood Money",
+            "year": "2012"
+        },
+        {
+            "title": "BM - Chaahat.mp3",
+            "original_name": "Chaahat",
+            "artists_name": [
+                "Jeet Ganguly",
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Blood Money",
+            "year": "2012"
+        },
+        {
+            "title": "Bilu - Love Mera Hit Hit.mp3",
+            "original_name": "Love Mera Hit Hit",
+            "artists_name": [
+                "Neeraj Shridhar",
+                "Tulsi Kumar"
+            ],
+            "album": "Billu",
+            "year": "2009"
+        },
+        {
+            "title": "Bilu - Jaoon Kahan.mp3",
+            "original_name": "Jaaun Kahan",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Billu",
+            "year": "2009"
+        },
+        {
+            "title": "Bilu - You Get Me Rocking & Reeling.mp3",
+            "original_name": "You Get Me Rocking & Reeling",
+            "artists_name": [
+                "Neeraj Shridhar"
+            ],
+            "album": "Billu",
+            "year": "2009"
+        },
+        {
+            "title": "Bilu - Khudaya Khair.mp3",
+            "original_name": "Khudaya Khair",
+            "artists_name": [
+                "Akriti Kakar",
+                "Monali Thakur",
+                "Soham Chakraborty"
+            ],
+            "album": "Billu",
+            "year": "2009"
+        },
+        {
+            "title": "Blu - Fiqrana.mp3",
+            "original_name": "Fiqrana",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Vijay Prakash"
+            ],
+            "album": "Blue",
+            "year": "2009"
+        },
+        {
+            "title": "Bol - Hona Tha Pyaar.mp3",
+            "original_name": "Hona Tha Pyaar",
+            "artists_name": [
+                "Atif Aslam",
+                "Hadiqa Kiani"
+            ],
+            "album": "Bol",
+            "year": "2011"
+        },
+        {
+            "title": "BhoB - Labon Ko (1).mp3",
+            "original_name": "Labon Ko",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Bhool Bhulaiyaa",
+            "year": "2007"
+        },
+        {
+            "title": "BhoB - Lets Rock Soniye.mp3",
+            "original_name": "Lets Rock Soniye",
+            "artists_name": [
+                "Shaan",
+                "Tulsi Kumar"
+            ],
+            "album": "Bhool Bhulaiyaa",
+            "year": "2007"
+        },
+        {
+            "title": "BR - Party To Banti Hai.mp3",
+            "original_name": "Party To Banti Hai",
+            "artists_name": [
+                "Meet Bros",
+                "Mika Singh"
+            ],
+            "album": "Bhoothnath Returns",
+            "year": "2014"
+        },
+        {
+            "title": "Bhnt - Samay Ka Pahiya.mp3",
+            "original_name": "Samay Ka Pahiya",
+            "artists_name": [
+                "Hariharan",
+                "Sukhwinder Singh"
+            ],
+            "album": "Bhoothnath",
+            "year": "2008"
+        },
+        {
+            "title": "BJ - Aankhon Aankhon.mp3",
+            "original_name": "Aankhon Aankhon",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Bhaag Johnny",
+            "year": "2015"
+        },
+        {
+            "title": "BC - Ayaashi.mp3",
+            "original_name": "Ayaashi",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Badmaash Company",
+            "year": "2010"
+        },
+        {
+            "title": "BC - Chaska.mp3",
+            "original_name": "Chaska",
+            "artists_name": [
+                "Krishna Beuraa",
+                "Url"
+            ],
+            "album": "Badmaash Company",
+            "year": "2010"
+        },
+        {
+            "title": "Blp - Jeena Jeena.mp3",
+            "original_name": "Jeena Jeena",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Badlapur",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Chicken.mp3",
+            "original_name": "Chicken",
+            "artists_name": [
+                "Mohit Chauhan",
+                "Palak Muchhal"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Bhar Do Jholi Meri.mp3",
+            "original_name": "Bhar Do Jholi Meri",
+            "artists_name": [
+                "Adnan Sami"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Selfie Le Le Re.mp3",
+            "original_name": "Selfie Le Le Re",
+            "artists_name": [
+                "Pritam Chakraborty",
+                "Badshah",
+                "Vishal Dadlani",
+                "Nakash Aziz"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Tu Jo Mila.mp3",
+            "original_name": "Tu Jo Mila",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Zindagi.mp3",
+            "original_name": "Zindagi Kuch Toh Bata",
+            "artists_name": [
+                "Jubin Nautiyal"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BB - Tu Chahiye.mp3",
+            "original_name": "Tu Chahiye",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Bajrangi Bhaijaan",
+            "year": "2015"
+        },
+        {
+            "title": "BEP - Tere Bin.mp3",
+            "original_name": "Tere Bin",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Bas Ek Pal",
+            "year": "2006"
+        },
+        {
+            "title": "Betb - Badal Yun Garajta Hai.mp3",
+            "original_name": "Badal Yoon Garajta Hai",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Shabbir Kumar"
+            ],
+            "album": "Betaab",
+            "year": "1983"
+        },
+        {
+            "title": "BaB - Tu Meri.mp3",
+            "original_name": "Tu Meri",
+            "artists_name": [
+                "Vishal Dadlani"
+            ],
+            "album": "Bang Bang!",
+            "year": "2014"
+        },
+        {
+            "title": "Brfi - Main Kya Karoon.mp3",
+            "original_name": "Main Kya Karoon",
+            "artists_name": [
+                "Nikhil Paul George"
+            ],
+            "album": "Barfi!",
+            "year": "2012"
+        },
+        {
+            "title": "BjM - Pinga.mp3",
+            "original_name": "Pinga",
+            "artists_name": [
+                "Shreya Ghoshal",
+                "Vaishali Mhade"
+            ],
+            "album": "Bajirao Mastani",
+            "year": "2015"
+        },
+        {
+            "title": "BjM - Malhari.mp3",
+            "original_name": "Malhari",
+            "artists_name": [
+                "Vishal Dadlani"
+            ],
+            "album": "Bajirao Mastani",
+            "year": "2015"
+        },
+        {
+            "title": "BjM - Deewani Mastani.mp3",
+            "original_name": "Deewani Mastani",
+            "artists_name": [
+                "Altamash Faridi",
+                "Ganesh Chandanshive",
+                "Farhaan Sabri",
+                "Mujtaba Aziz Naza",
+                "Shadab Faridi",
+                "Shreya Ghoshal"
+            ],
+            "album": "Bajirao Mastani",
+            "year": "2015"
+        },
+        {
+            "title": "BAH - Khuda Jaane.mp3",
+            "original_name": "Khuda Jaane",
+            "artists_name": [
+                "KK",
+                "Shilpa Rao"
+            ],
+            "album": "Bachna Ae Haseeno",
+            "year": "2008"
+        },
+        {
+            "title": "BAH - Bachna Ae Haseeno.mp3",
+            "original_name": "Bachna Ae Haseeno",
+            "artists_name": [
+                "Kishore Kumar",
+                "Sumit Kumar",
+                "Vishal Dadlani"
+            ],
+            "album": "Bachna Ae Haseeno",
+            "year": "2008"
+        },
+        {
+            "title": "Ardn - Mere Sapnon Ki Rani.mp3",
+            "original_name": "Mere Sapnon Ki Rani",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Aradhana",
+            "year": "1969"
+        },
+        {
+            "title": "Azhr - Itni Si Baat Hain.mp3",
+            "original_name": "Itni Si Baat Hain",
+            "artists_name": [
+                "Antara Mitra",
+                "Arijit Singh"
+            ],
+            "album": "Azhar",
+            "year": "2016"
+        },
+        {
+            "title": "Azhr - Bol Do Na Zara.mp3",
+            "original_name": "Bol Do Na Zara",
+            "artists_name": [
+                "Armaan Malik"
+            ],
+            "album": "Azhar",
+            "year": "2016"
+        },
+        {
+            "title": "Aksr - Soniye.mp3",
+            "original_name": "Soniye",
+            "artists_name": [
+                "KK",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Aksar",
+            "year": "2006"
+        },
+        {
+            "title": "Bg - Sab Tera.mp3",
+            "original_name": "Sab Tera",
+            "artists_name": [
+                "Armaan Malik"
+            ],
+            "album": "Baaghi",
+            "year": "2016"
+        },
+        {
+            "title": "AA - Tujhe Bhula Diya.mp3",
+            "original_name": "Tujhe Bhula Diya",
+            "artists_name": [
+                "Mohit Chauhan",
+                "Shekhar Ravjiani",
+                "Shruti Pathak"
+            ],
+            "album": "Anjaana Anjaani",
+            "year": "2010"
+        },
+        {
+            "title": "Bdsh - Socha Hai (2nd Version).mp3",
+            "original_name": "Socha Hai (2nd Version)",
+            "artists_name": [
+                "Kishore Kumar",
+                "Asha Bhosle",
+                "Tanishk Bagchi"
+            ],
+            "album": "Baadshaho",
+            "year": "2017"
+        },
+        {
+            "title": "AA - Anjaana Anjaani.mp3",
+            "original_name": "Anjaana Anjaani",
+            "artists_name": [
+                "Shilpa Rao",
+                "Vishal Dadlani"
+            ],
+            "album": "Anjaana Anjaani",
+            "year": "2010"
+        },
+        {
+            "title": "Anwr - Maula Mere Maula.mp3",
+            "original_name": "Maula Mere Maula",
+            "artists_name": [
+                "Roopkumar Rathod"
+            ],
+            "album": "Anwar",
+            "year": "2007"
+        },
+        {
+            "title": "GrR - Suit.mp3",
+            "original_name": "Suit Suit",
+            "artists_name": [
+                "Guru Randhawa"
+            ],
+            "album": "Hindi Medium",
+            "year": "2017"
+        },
+        {
+            "title": "GrR - Yaar Mod Do.mp3",
+            "original_name": "Yaar Mod Do",
+            "artists_name": [
+                "Guru Randhawa",
+                "Millind Gaba"
+            ],
+            "album": "Guru Randhawa (At Its Best)",
+            "year": "2018"
+        },
+        {
+            "title": "GrR - High Rated Gabru.mp3",
+            "original_name": "High Rated Gabru",
+            "artists_name": [
+                "Guru Randhawa"
+            ],
+            "album": "Nawabzaade",
+            "year": "2018"
+        },
+        {
+            "title": "ImK - Aaja We Mahiya.mp3",
+            "original_name": "Aaja We Mahiya",
+            "artists_name": [
+                "Imran Khan"
+            ],
+            "album": "Unforgettable",
+            "year": "2008"
+        },
+        {
+            "title": "ImK - Amplifier.mp3",
+            "original_name": "Amplifier",
+            "artists_name": [
+                "Imran Khan"
+            ],
+            "album": "Unforgettable",
+            "year": "2008"
+        },
+        {
+            "title": "ImK - Satisfya.mp3",
+            "original_name": "Satisfya",
+            "artists_name": [
+                "Imran Khan"
+            ],
+            "album": "Satisfya",
+            "year": "2013"
+        },
+        {
+            "title": "DilD - Proper Patola.mp3",
+            "original_name": "Proper Patola",
+            "artists_name": [
+                "Diljit Dosanjh"
+            ],
+            "album": "Namaste England",
+            "year": "2018"
+        },
+        {
+            "title": "ApcI - Dil Luttiya.mp3",
+            "original_name": "Dil Lutiya",
+            "artists_name": [
+                "Jazzy B"
+            ],
+            "album": "Romeo",
+            "year": "2005"
+        },
+        {
+            "title": "HonS - Blue Eyes.mp3",
+            "original_name": "Blue Eyes",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2013"
+        },
+        {
+            "title": "HonS - High Heels.mp3",
+            "original_name": "High Heels",
+            "artists_name": [
+                "Jaz Dhami",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "High Heels (DJ Suketu Remix)",
+            "year": "2012"
+        },
+        {
+            "title": "HonS - Issey Kehte Hain Hip Hop.mp3",
+            "original_name": "Issey Kehte Hain Hip Hop",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2014"
+        },
+        {
+            "title": "HonS - Brown Rang.mp3",
+            "original_name": "Brown Rang",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "International Villager",
+            "year": "2011"
+        },
+        {
+            "title": "HonS - Dheere Dheere.mp3",
+            "original_name": "Dheere Dheere",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Best Of Sonam Kapoor",
+            "year": "2017"
+        },
+        {
+            "title": "HonS - Birthday Bash.mp3",
+            "original_name": "Birthday Bash",
+            "artists_name": [
+                "Amanjot singh Panwar",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Dilliwali Zaalim Girlfriend",
+            "year": "2015"
+        },
+        {
+            "title": "HonS - Mehrma.mp3",
+            "original_name": "Mehrma",
+            "artists_name": [
+                "Sam Sandhu",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Mehrma",
+            "year": "2014"
+        },
+        {
+            "title": "HonS - Chaska.mp3",
+            "original_name": "Chaska",
+            "artists_name": [
+                "Raja Baath",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "The Crown",
+            "year": "2009"
+        },
+        {
+            "title": "HonS - Bring Me Back.mp3",
+            "original_name": "Bring Me Back",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2019"
+        },
+        {
+            "title": "HonS - One Bottle Down.mp3",
+            "original_name": "One Bottle Down",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2017"
+        },
+        {
+            "title": "HonS - Daftar Ki Girl.mp3",
+            "original_name": "Daftar Ki Girl",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Desi Kalakaar",
+            "year": "2014"
+        },
+        {
+            "title": "HonS - Chaar Botal Vodka.mp3",
+            "original_name": "Chaar Bottle Vodka",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Ragini MMS 2",
+            "year": "2014"
+        },
+        {
+            "title": "HonS - Gabru.mp3",
+            "original_name": "Gabru",
+            "artists_name": [
+                "J Star",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "The Biggest UK Bhangra Hits, Vol. 4",
+            "year": "2012"
+        },
+        {
+            "title": "HonS - Dj Upar Upar In The Air.mp3",
+            "original_name": "Upar Upar In The Air",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2012"
+        },
+        {
+            "title": "HonS - This Party Getting Hot.mp3",
+            "original_name": "This Party Getting Hot",
+            "artists_name": [
+                "Jazzy B",
+                "Yo Yo Honey Singh"
+            ],
+            "album": "This Party Getting Hot",
+            "year": "2012"
+        },
+        {
+            "title": "HonS - Mere Mehboob Qayamat Hogi.mp3",
+            "original_name": "Mere Mehboob Qayamat Hogi",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Yo Yo Honey Singh",
+            "year": "2014"
+        },
+        {
+            "title": "HrdS - Joker.mp3",
+            "original_name": "Joker",
+            "artists_name": [
+                "Harrdy Sandhu"
+            ],
+            "album": "Joker",
+            "year": "2014"
+        },
+        {
+            "title": "HrdS - Naah.mp3",
+            "original_name": "Naah",
+            "artists_name": [
+                "Harrdy Sandhu"
+            ],
+            "album": "Naah",
+            "year": "2017"
+        },
+        {
+            "title": "HrdS - Hardy Sandhu.mp3",
+            "original_name": "Soch",
+            "artists_name": [
+                "Harrdy Sandhu"
+            ],
+            "album": "Soch",
+            "year": "2013"
+        },
+        {
+            "title": "Aryns - Dekha Hai Teri Aankhon Ko.mp3",
+            "original_name": "Dekha Hai Teri Aankhon Ko",
+            "artists_name": [
+                "Aryans"
+            ],
+            "album": "Aryans",
+            "year": "2001"
+        },
+        {
+            "title": "AriS - Chal Wahan Jaate Hain.mp3",
+            "original_name": "Chal Wahan Jaate Hain",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Chal Wahan Jaate Hain",
+            "year": "2015"
+        },
+        {
+            "title": "Aryns - Ankhon Mein Tera Hi Chehra.mp3",
+            "original_name": "Aankhon Mein Tera Hi Chehra",
+            "artists_name": [
+                "Aryans"
+            ],
+            "album": "Aryans",
+            "year": "1999"
+        },
+        {
+            "title": "DrsR - Mere Nishan.mp3",
+            "original_name": "Mere Nishaan",
+            "artists_name": [
+                "Darshan Raval"
+            ],
+            "album": "Mere Nishaan",
+            "year": "2015"
+        },
+        {
+            "title": "Nvya - Na jaane.mp3",
+            "original_name": "Thoda",
+            "artists_name": [
+                "Stefan Ahola"
+            ],
+            "album": "Daraar",
+            "year": "1994"
+        },
+        {
+            "title": "ShlO - Soniye Hiriye.mp3",
+            "original_name": "Hiriye",
+            "artists_name": [
+                "Shael Oswal"
+            ],
+            "album": "Shael Oswal",
+            "year": "2010"
+        },
+        {
+            "title": "RDJ - Ek Villain Mashup.mp3",
+            "original_name": "Ek Villain Mashup",
+            "artists_name": [
+                "Ankit Tiwari"
+            ],
+            "album": "Rahul DJ",
+            "year": "2014"
+        },
+        {
+            "title": "ArR - Jai Ho - Slumdog Millionaire.mp3",
+            "original_name": "Jai Ho",
+            "artists_name": [
+                "A. R. Rahman",
+                "Sukhwinder Singh",
+                "Vijay Prakash",
+                "Mahalakshmi Iyer",
+                "Tanvi Shah"
+            ],
+            "album": "Slumdog Millionaire",
+            "year": "2008"
+        },
+        {
+            "title": "RDJ - Hosanna (DJ KHUSHI Official Remix).mp3",
+            "original_name": "Hosanna (RDJ)",
+            "artists_name": [
+                "A. R. Rahman",
+                "Leon D'Souza",
+                "Suzanne D'Mello"
+            ],
+            "album": "Ekk Deewana Tha",
+            "year": "2012"
+        },
+        {
+            "title": "RDJ - Bekara (DJ KHUSHI Official Remix).mp3",
+            "original_name": "Bekarar",
+            "artists_name": [
+                "Lucky Ali"
+            ],
+            "album": "Paathshaala",
+            "year": "2010"
+        },
+        {
+            "title": "KaiK - Teri Deewani.mp3",
+            "original_name": "Teri Deewani",
+            "artists_name": [
+                "Kailash Kher"
+            ],
+            "album": "Kailash Kher",
+            "year": "2007"
+        },
+        {
+            "title": "RDJ - Char Botal (DJ KHUSHI Official Remix).mp3",
+            "original_name": "Chaar Bottle Vodka (RDJ)",
+            "artists_name": [
+                "Yo Yo Honey Singh"
+            ],
+            "album": "Rahul DJ",
+            "year": "2014"
+        },
+        {
+            "title": "KaiK - Allah Ke Bande.mp3",
+            "original_name": "Allah Ke Bande",
+            "artists_name": [
+                "Kailash Kher"
+            ],
+            "album": "Kailash Kher",
+            "year": "2003"
+        },
+        {
+            "title": "KaiK - Ya Rabba.mp3",
+            "original_name": "Ya Rabba",
+            "artists_name": [
+                "Kailash Kher",
+                "Sameer Anjaan",
+                "Shankar-Ehsaan-Loy"
+            ],
+            "album": "Salaam-E-Ishq",
+            "year": "2007"
+        },
+        {
+            "title": "GjnV - Tune Mere Jaana (Emptiness).mp3",
+            "original_name": "Tune Mere Jaana",
+            "artists_name": [
+                "Gajendra Verma"
+            ],
+            "album": "Emptiness",
+            "year": "2014"
+        },
+        {
+            "title": "MikS - Something Something.mp3",
+            "original_name": "Something Something",
+            "artists_name": [
+                "Mika Singh"
+            ],
+            "album": "Mika Singh",
+            "year": "2006"
+        },
+        {
+            "title": "GjnV - Ik Kahani.mp3",
+            "original_name": "Ik Kahani",
+            "artists_name": [
+                "Gajendra Verma"
+            ],
+            "album": "Ik Kahani",
+            "year": "2017"
+        },
+        {
+            "title": "RhuJ - Tere Jaisa Yaar.mp3",
+            "original_name": "Tere Jaisa Yaar Kahan",
+            "artists_name": [
+                "Kishore Kumar",
+                "Rahul Jain"
+            ],
+            "album": "Yaarana",
+            "year": "1981"
+        },
+        {
+            "title": "PlkM - Lori.mp3",
+            "original_name": "Lori",
+            "artists_name": [
+                "Avni and Asha"
+            ],
+            "album": "Naamkarann",
+            "year": "2015"
+        },
+        {
+            "title": "Kk - Hum Rahe Ya Na Rahe.mp3",
+            "original_name": "Pyaar Ke Pal",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Pal",
+            "year": "1999"
+        },
+        {
+            "title": "AtfA - Teri Yaadein.mp3",
+            "original_name": "Teri Yaadein",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Teri Yaadein",
+            "year": "2006"
+        },
+        {
+            "title": "AtfA - Zindagi Aa Raha Hoon Main.mp3",
+            "original_name": "Zindagi Aa Raha Hoon Main",
+            "artists_name": [
+                "Amaal Mallik",
+                "Atif Aslam"
+            ],
+            "album": "Tiger Shroff Essentials",
+            "year": "2017"
+        },
+        {
+            "title": "RghS - Yeh Ladka Hai Allah.mp3",
+            "original_name": "Yeh Ladka Hai Allah",
+            "artists_name": [
+                "Alka Yagnik",
+                "Jatin-Lalit",
+                "Udit Narayan"
+            ],
+            "album": "Kabhi Khushi Kabhie Gham...",
+            "year": "2001"
+        },
+        {
+            "title": "PrvC - Kya Hua Tera Wada.mp3",
+            "original_name": "Kya Hua Tera Wada",
+            "artists_name": [
+                "Mohammed Rafi",
+                "R. D. Burman",
+                "Sushma Shreshta"
+            ],
+            "album": "Hum Kisise Kum Naheen",
+            "year": "1977"
+        },
+        {
+            "title": "JsbJ - Dil Le Gayee.mp3",
+            "original_name": "Dil Le Gayee",
+            "artists_name": [
+                "Jasbir Jassi",
+                "Jassi Gurjar"
+            ],
+            "album": "Dil Le Gayee",
+            "year": "2008"
+        },
+        {
+            "title": "Fzlp - Chull - Fazilpuria feat. Badshah.mp3",
+            "original_name": "Chull",
+            "artists_name": [
+                "Fazilpuria",
+                "Badshah"
+            ],
+            "album": "Fazilpuria",
+            "year": "2014"
+        },
+        {
+            "title": "ArmM - Main Rahoon Ya Na Rahoon.mp3",
+            "original_name": "Main Rahoon Ya Na Rahoon",
+            "artists_name": [
+                "Armaan Malik"
+            ],
+            "album": "Bollywood Heartbreak Songs",
+            "year": "2019"
+        },
+        {
+            "title": "SnoN - Deewana Tera.mp3",
+            "original_name": "Deewana Tera",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "Hindustani - Remix",
+            "year": "1999"
+        },
+        {
+            "title": "Shvi - Ek Galti Ho Gayi Mujhse.mp3",
+            "original_name": "Ha Ho Gayi Galti Mujhse",
+            "artists_name": [
+                "Shivai Vyas"
+            ],
+            "album": "Shivai Vyas",
+            "year": "2013"
+        },
+        {
+            "title": "RhlV - Tere Liye.mp3",
+            "original_name": "Tere Liye",
+            "artists_name": [
+                "Rahul Vaidya"
+            ],
+            "album": "Tera Intezar",
+            "year": "2005"
+        },
+        {
+            "title": "Alfz - Haye Mera Dil.mp3",
+            "original_name": "Haye Mera Dil",
+            "artists_name": [
+                "Yo Yo Honey Singh",
+                "Amanjot singh Panwar"
+            ],
+            "album": "Alfaaz - The Boy Next Door",
+            "year": "2011"
+        },
+        {
+            "title": "AdNan - Bheegi Bheegi Raaton Mein.mp3",
+            "original_name": "Bheegi Bheegi Raton Mein",
+            "artists_name": [
+                "Adnan Sami"
+            ],
+            "album": "Bheegi Bheegi Raton Mein... Kabhi To Nazar Milao",
+            "year": "1997"
+        },
+        {
+            "title": "PSY - Gangnam Style (1).mp3",
+            "original_name": "Gangnam Style",
+            "artists_name": [
+                "PSY"
+            ],
+            "album": "Psy 6 (Six Rules), Part 1",
+            "year": "2012"
+        },
+        {
+            "title": "AIW - Baaton Ko Teri.mp3",
+            "original_name": "Baaton Ko Teri",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "All Is Well",
+            "year": "2015"
+        },
+        {
+            "title": "AIW - Mere Humsafar.mp3",
+            "original_name": "Mere Humsafar",
+            "artists_name": [
+                "Mithoon",
+                "Tulsi Kumar"
+            ],
+            "album": "All Is Well",
+            "year": "2015"
+        },
+        {
+            "title": "AIW - Chaar Shanivaar.mp3",
+            "original_name": "Chaar Shanivaar",
+            "artists_name": [
+                "Armaan Malik",
+                "Badshah",
+                "Vishal Dadlani"
+            ],
+            "album": "All Is Well",
+            "year": "2015"
+        },
+        {
+            "title": "AIW - Nachan Farrate.mp3",
+            "original_name": "Nachan Farrate",
+            "artists_name": [
+                "Kanika Kapoor",
+                "Meet Bros"
+            ],
+            "album": "All Is Well",
+            "year": "2015"
+        },
+        {
+            "title": "Awra - Tera Mera Rishta.mp3",
+            "original_name": "Tera Mera Rishta",
+            "artists_name": [
+                "Mustafa Zahid"
+            ],
+            "album": "Awarapan",
+            "year": "2007"
+        },
+        {
+            "title": "Awra - Toh Phir Aao.mp3",
+            "original_name": "Toh Phir Aao",
+            "artists_name": [
+                "Mustafa Zahid"
+            ],
+            "album": "Awarapan",
+            "year": "2007"
+        },
+        {
+            "title": "Abdl - Maine Poocha Chand.mp3",
+            "original_name": "Maine Poochha Chand Se",
+            "artists_name": [
+                "Mohammed Rafi"
+            ],
+            "album": "Abdullah",
+            "year": "1980"
+        },
+        {
+            "title": "AR - Zor Ka Jhatka.mp3",
+            "original_name": "Zor Ka Jhatka",
+            "artists_name": [
+                "Daler Mehndi",
+                "Richa Sharma"
+            ],
+            "album": "Action Replayy",
+            "year": "2010"
+        },
+        {
+            "title": "Abdl - Aap Jaisa Koi.mp3",
+            "original_name": "Aap Jaisa Koi",
+            "artists_name": [
+                "Nazia Hassan"
+            ],
+            "album": "Abdullah",
+            "year": "1980"
+        },
+        {
+            "title": "ADHM - Channa Mereya.mp3",
+            "original_name": "Channa Mereya",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Ae Dil Hai Mushkil",
+            "year": "2016"
+        },
+        {
+            "title": "ADHM - Bulleya.mp3",
+            "original_name": "Bulleya",
+            "artists_name": [
+                "Pritam Chakraborty"
+            ],
+            "album": "Ae Dil Hai Mushkil",
+            "year": "2016"
+        },
+        {
+            "title": "APKGK - Prem Ki Naiyya.mp3",
+            "original_name": "Prem Ki Naiyya",
+            "artists_name": [
+                "Neeraj Shridhar",
+                "Suzanne D'Mello"
+            ],
+            "album": "Ajab Prem Ki Ghazab Kahani",
+            "year": "2009"
+        },
+        {
+            "title": "APKGK - Main Tera Dhadkan Teri.mp3",
+            "original_name": "Main Tera Dhadkan Teri",
+            "artists_name": [
+                "Hard Kaur",
+                "KK",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Ajab Prem Ki Ghazab Kahani",
+            "year": "2009"
+        },
+        {
+            "title": "APKGK - Tu Jaane Na.mp3",
+            "original_name": "Tu Jaane Na",
+            "artists_name": [
+                "Atif Aslam"
+            ],
+            "album": "Ajab Prem Ki Ghazab Kahani",
+            "year": "2009"
+        },
+        {
+            "title": "APKGK - Tera Hone Laga Hoon.mp3",
+            "original_name": "Tera Hone Laga Hoon",
+            "artists_name": [
+                "Alisha Chinai",
+                "Atif Aslam",
+                "Joi Barua"
+            ],
+            "album": "Ajab Prem Ki Ghazab Kahani",
+            "year": "2009"
+        },
+        {
+            "title": "APKGK - Aa Jao Meri Tamanna.mp3",
+            "original_name": "Aa Jao Meri Tamanna",
+            "artists_name": [
+                "Javed Ali",
+                "Jojo"
+            ],
+            "album": "Ajab Prem Ki Ghazab Kahani",
+            "year": "2009"
+        },
+        {
+            "title": "Aitr - Ankhein Band Karke.mp3",
+            "original_name": "Aankhen Bandh Karke",
+            "artists_name": [
+                "Alka Yagnik",
+                "Udit Narayan"
+            ],
+            "album": "Aitraaz",
+            "year": "2004"
+        },
+        {
+            "title": "AGL - Boom-Boom.mp3",
+            "original_name": "Boom Boom (Lip Lock)",
+            "artists_name": [
+                "Mika Singh",
+                "Sajid-Wajid"
+            ],
+            "album": "Ajab Gazabb Love",
+            "year": "2012"
+        },
+        {
+            "title": "Ajnb - Ek Ajnabee Haseena Se.mp3",
+            "original_name": "Ek Ajnabee Haseena Se",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Ajanabee",
+            "year": "1974"
+        },
+        {
+            "title": "Agnp - Abhi Mujh Mein Kahin.mp3",
+            "original_name": "Abhi Mujh Mein Kahin",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "Agneepath",
+            "year": "2012"
+        },
+        {
+            "title": "Arli - Dil Cheez Tujhe Dedi.mp3",
+            "original_name": "Dil Cheez Tujhe Dedi",
+            "artists_name": [
+                "Ankit Tiwari",
+                "Arijit Singh"
+            ],
+            "album": "Airlift",
+            "year": "2016"
+        },
+        {
+            "title": "Ajnb - Ek Ajnabee Haseena Se Mulakat Ho Gai (New).mp3",
+            "original_name": "Ek Ajnabee Haseena Se (NEW)",
+            "artists_name": [
+                "Kishore Kumar"
+            ],
+            "album": "Ajanabee",
+            "year": "1974"
+        },
+        {
+            "title": "Arli - Soch Na Sake.mp3",
+            "original_name": "Soch Na Sake",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Airlift",
+            "year": "2016"
+        },
+        {
+            "title": "AV - Pungi Agent Vinod.mp3",
+            "original_name": "Pungi",
+            "artists_name": [
+                "Jaaved Jaffrey",
+                "Mika Singh",
+                "Pritam Chakraborty",
+                "Nakash Aziz"
+            ],
+            "album": "Agent Vinod",
+            "year": "2012"
+        },
+        {
+            "title": "AV - Raabta.mp3",
+            "original_name": "Raabta",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Agent Vinod",
+            "year": "2012"
+        },
+        {
+            "title": "Andi - Tere Bina Zindagi Se Koi Shikwa.mp3",
+            "original_name": "Tere Bina Zindagi Se",
+            "artists_name": [
+                "Kishore Kumar",
+                "Lata Mangeshkar"
+            ],
+            "album": "Aandhi",
+            "year": "1975"
+        },
+        {
+            "title": "ABCD - Bezubaan.mp3",
+            "original_name": "Bezubaan",
+            "artists_name": [
+                "Priya Saraiya",
+                "Deane Sequeira",
+                "Tanvi Shah",
+                "Mohit Chauhan"
+            ],
+            "album": "ABCD: Any Body Can Dance",
+            "year": "2012"
+        },
+        {
+            "title": "AN - O Re Piya.mp3",
+            "original_name": "O Re Piya",
+            "artists_name": [
+                "Rahat Fateh Ali Khan"
+            ],
+            "album": "Aaja Nachle",
+            "year": "2007"
+        },
+        {
+            "title": "Ark - Achha Lagta Hai.mp3",
+            "original_name": "Achha Lagta Hai",
+            "artists_name": [
+                "Mohit Chauhan",
+                "Shankar-Ehsaan-Loy",
+                "Shreya Ghoshal"
+            ],
+            "album": "Aarakshan",
+            "year": "2011"
+        },
+        {
+            "title": "A2 - Aashiqui 2 Mashup.mp3",
+            "original_name": "Aashiqui 2 (Mashup)",
+            "artists_name": [
+                "KK",
+                "Arijit Singh",
+                "Shreya Ghoshal",
+                "Palak Muchhal",
+                "Mustafa Zahid",
+                "Tulsi Kumar",
+                "Ankit Tiwari"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Meri Aashiqui.mp3",
+            "original_name": "Meri Aashiqui",
+            "artists_name": [
+                "Arijit Singh",
+                "Palak Muchhal"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Piya Aaye Na.mp3",
+            "original_name": "Piya Aaye Na",
+            "artists_name": [
+                "KK",
+                "Tulsi Kumar"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Tum Hi Ho.mp3",
+            "original_name": "Tum Hi Ho",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Sunn Raha Hai (Male).mp3",
+            "original_name": "Sunn Raha Hai",
+            "artists_name": [
+                "Ankit Tiwari"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Bhula Dena.mp3",
+            "original_name": "Bhula Dena",
+            "artists_name": [
+                "Mustafa Zahid"
+            ],
+            "album": "Aashiqui 2",
+            "year": "Enter Year: 2013"
+        },
+        {
+            "title": "A2 - Milne Hai Mujhse Aayi.mp3",
+            "original_name": "Milne Hai Mujhse Aayi",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A2 - Hum Mar Jayenge.mp3",
+            "original_name": "Hum Mar Jayenge",
+            "artists_name": [
+                "Arijit Singh",
+                "Tulsi Kumar",
+                "Shreya Ghoshal"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "Arzo - Ab Tere Dil Mein To.mp3",
+            "original_name": "Ab Tere Dil Mein To",
+            "artists_name": [
+                "Alka Yagnik",
+                "Kumar Sanu"
+            ],
+            "album": "Aarzoo",
+            "year": "1999"
+        },
+        {
+            "title": "A2 - Sunn Raha Hai (Female).mp3",
+            "original_name": "Sunn Raha Hai",
+            "artists_name": [
+                "Shreya Ghoshal"
+            ],
+            "album": "Aashiqui 2",
+            "year": "2013"
+        },
+        {
+            "title": "A - Ek Sanam Chahiye Aashiqui Ke Liye.mp3",
+            "original_name": "Ek Sanam Chahiye Aashiqui Ke Liye",
+            "artists_name": [
+                "Kumar Sanu"
+            ],
+            "album": "Aashiqui",
+            "year": "1990"
+        },
+        {
+            "title": "AABA - Mujhe Teri Mohabbat Ka Sahara.mp3",
+            "original_name": "Mujhe Teri Mohabbat Ka Sahara",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Mohammed Rafi"
+            ],
+            "album": "Aap Aye Bahaar Ayee",
+            "year": "1971"
+        },
+        {
+            "title": "A - Tu Meri Zindagi Hai.mp3",
+            "original_name": "Tu Meri Zindagi Hai",
+            "artists_name": [
+                "Anuradha Paudwal",
+                "Kumar Sanu"
+            ],
+            "album": "Aashiqui",
+            "year": "1990"
+        },
+        {
+            "title": "A - Dheere Dheere Se.mp3",
+            "original_name": "Dheere Dheere Se Meri Zindagi Mein Aana",
+            "artists_name": [
+                "Kumar Sanu"
+            ],
+            "album": "Aashiqui",
+            "year": "1990"
+        },
+        {
+            "title": "A - Nazar Ke Samne.mp3",
+            "original_name": "Nazar Ke Samne",
+            "artists_name": [
+                "Anuradha Paudwal",
+                "Kumar Sanu"
+            ],
+            "album": "Aashiqui",
+            "year": "1990"
+        },
+        {
+            "title": "ABCD2 - Bezubaan Phir Se.mp3",
+            "original_name": "Bezubaan Phir Se",
+            "artists_name": [
+                "Anushka Manchanda",
+                "Madhav Krishna",
+                "Vishal Dadlani"
+            ],
+            "album": "ABCD 2",
+            "year": "2015"
+        },
+        {
+            "title": "ABCD2 - Chunar.mp3",
+            "original_name": "Chunar",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "ABCD 2",
+            "year": "2015"
+        },
+        {
+            "title": "ABCD2 - Sun Saathiya.mp3",
+            "original_name": "Sun Saathiya",
+            "artists_name": [
+                "Divya Kumar",
+                "Priya Saraiya"
+            ],
+            "album": "ABCD 2",
+            "year": "2015"
+        },
+        {
+            "title": "3I - Jaane Nahin Denge.mp3",
+            "original_name": "Jaane Nahin Denge",
+            "artists_name": [
+                "Sonu Nigam"
+            ],
+            "album": "3 Idiots",
+            "year": "2009"
+        },
+        {
+            "title": "2S - Locha-E-Ulfat.mp3",
+            "original_name": "Locha-E-Ulfat",
+            "artists_name": [
+                "Benny Dayal"
+            ],
+            "album": "2 States",
+            "year": "2014"
+        },
+        {
+            "title": "ER - Uska Hi Banana.mp3",
+            "original_name": "Uska Hi Banana",
+            "artists_name": [
+                "Arijit Singh"
+            ],
+            "album": "1920: Evil Returns",
+            "year": "2012"
+        },
+        {
+            "title": "3I - Behti Hawa Sa Tha Woh.mp3",
+            "original_name": "Behti Hawa Sa Tha Woh",
+            "artists_name": [
+                "Shaan",
+                "Shantanu Moitra"
+            ],
+            "album": "3 Idiots",
+            "year": "2009"
+        },
+        {
+            "title": "Nqab - Ek Din Teri Raahon.mp3",
+            "original_name": "Ek Din Teri Raahon",
+            "artists_name": [
+                "Javed Ali"
+            ],
+            "album": "Naqaab",
+            "year": "2007"
+        },
+        {
+            "title": "Akro - Sauda Hai Dil Ka.mp3",
+            "original_name": "Saude Bazi",
+            "artists_name": [
+                "Anupam Amod",
+                "Javed Ali"
+            ],
+            "album": "Aakrosh",
+            "year": "2010"
+        },
+        {
+            "title": "NewY - Hai Junoon.mp3",
+            "original_name": "Hai Junoon",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "New York",
+            "year": "2009"
+        },
+        {
+            "title": "KCK - Hey Ya! (1).mp3",
+            "original_name": "Hey Ya!",
+            "artists_name": [
+                "Clinton Cerejo",
+                "Loy Mendonsa",
+                "Shankar Mahadevan"
+            ],
+            "album": "Karthik Calling Karthik",
+            "year": "2010"
+        },
+        {
+            "title": "KCK - Uff Teri Adaa (1).mp3",
+            "original_name": "Uff Teri Adaa",
+            "artists_name": [
+                "Alyssa Mendonsa",
+                "Shankar Mahadevan"
+            ],
+            "album": "Karthik Calling Karthi",
+            "year": "2010"
+        },
+        {
+            "title": "DlhH - Tere Bin (1).mp3",
+            "original_name": "Tere Bin",
+            "artists_name": [
+                "Rabbi Shergill"
+            ],
+            "album": "Delhii Heights",
+            "year": "2007"
+        },
+        {
+            "title": "CCtC - Tere Naina (1).mp3",
+            "original_name": "Tere Naina",
+            "artists_name": [
+                "Shankar Mahadevan",
+                "Shreya Ghosal"
+            ],
+            "album": "Chandni Chowk to China",
+            "year": "2009"
+        },
+        {
+            "title": "TN92 - Ek Nazar Mein Bhi (1).mp3",
+            "original_name": "Ek Nazar Mein Bhi",
+            "artists_name": [
+                "KK",
+                "Sunidhi Chauhan",
+                "Vishal-Shekhar"
+            ],
+            "album": "Taxi No. 9 2 11: Nau Do Gyarah",
+            "year": "2006"
+        },
+        {
+            "title": "ZNMD - Ik Junoon (Paint It Red) (1).mp3",
+            "original_name": "Ik Junoon (Paint It Red)",
+            "artists_name": [
+                "Gulraj Singh",
+                "Shankar Mahadevan",
+                "Vishal Dadlani",
+                "Ehsaan Noorani",
+                "Alyssa Mendonsa"
+            ],
+            "album": "Zindagi Na Milegi Dobara",
+            "year": "2011"
+        },
+        {
+            "title": "TiNC - My Heart Will Go On (1).mp3",
+            "original_name": "My Heart Will Go On",
+            "artists_name": [
+                "Celine Dion"
+            ],
+            "album": "Let's Talk About Love",
+            "year": "1997"
+        },
+        {
+            "title": "YaDd - Bin Tere Sanam (1).mp3",
+            "original_name": "Bin Tere Sanam",
+            "artists_name": [
+                "Kavita Krishnamurthy",
+                "Udit Narayan"
+            ],
+            "album": "Yaara Dildara",
+            "year": "1991"
+        },
+        {
+            "title": "Darr - Jadu Teri Nazar.mp3",
+            "original_name": "Jaadu Teri Nazar",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Udit Narayan",
+                "Vinod Rathod"
+            ],
+            "album": "Darr",
+            "year": "1993"
+        },
+        {
+            "title": "ALS - Ek Ladki Ko Dekha (1).mp3",
+            "original_name": "Ek Ladki Ko Dekha",
+            "artists_name": [
+                "Kumar Sanu"
+            ],
+            "album": "1942: A Love Story",
+            "year": "1994"
+        },
+        {
+            "title": "Veer - Salaam Aaya (1).mp3",
+            "original_name": "Salaam Aaya",
+            "artists_name": [
+                "Roopkumar Rathod",
+                "Shreya Ghoshal",
+                "Suzanne D'Mello"
+            ],
+            "album": "Veer",
+            "year": "2010"
+        },
+        {
+            "title": "Shki - Hips don't lie.mp3",
+            "original_name": "Hips Don't Lie",
+            "artists_name": [
+                "Shakira"
+            ],
+            "album": "Oral Fixation Vol. 2",
+            "year": "2005"
+        },
+        {
+            "title": "Clpy - Hymn For The Weekend.mp3",
+            "original_name": "Hymn for the Weekend",
+            "artists_name": [
+                "Coldplay"
+            ],
+            "album": "Coldplay",
+            "year": "2015"
+        },
+        {
+            "title": "VLHA - Koi Aap Jaisa (1).mp3",
+            "original_name": "Koi Aap Jaisa",
+            "artists_name": [
+                "Jayesh Gandhi",
+                "Kunal Ganjawala",
+                "Madhushree"
+            ],
+            "album": "Vaah! Life Ho Toh Aisi!",
+            "year": "2005"
+        },
+        {
+            "title": "YJHD - Balam Pichkari.mp3",
+            "original_name": "Balam Pichkari",
+            "artists_name": [
+                "SHALMALI",
+                "Shalmali Kholgade",
+                "Vishal Dadlani"
+            ],
+            "album": "Yeh Jawaani Hai Deewani",
+            "year": "2013"
+        },
+        {
+            "title": "RandomBanner",
+            "original_name": "",
+            "artists_name": [
+                ""
+            ],
+            "album": "",
+            "year": ""
+        },
+        {
+            "title": "TiNC - My Heart Will Go On",
+            "original_name": "My Heart Will Go On",
+            "artists_name": [
+                "Celine Dion"
+            ],
+            "album": "Let's Talk About Love",
+            "year": "1997"
+        },
+        {
+            "title": "ALS - Ek Ladki Ko Dekha.mp3",
+            "original_name": "Ek Ladki Ko Dekha",
+            "artists_name": [
+                "Kumar Sanu"
+            ],
+            "album": "1942: A Love Story",
+            "year": "1994"
+        },
+        {
+            "title": "AlnW - On My Way.mp3",
+            "original_name": "On My Way",
+            "artists_name": [
+                "Alan Walker",
+                "Farruko",
+                "Sabrina Carpenter"
+            ],
+            "album": "Alan Walker",
+            "year": "2019"
+        },
+        {
+            "title": "EllD - Middle Of The Night.mp3",
+            "original_name": "MIDDLE OF THE NIGHT",
+            "artists_name": [
+                "Elley Duh\u00e9"
+            ],
+            "album": "Elley Duh\u00e9",
+            "year": "2022"
+        },
+        {
+            "title": "VLHA - Koi Aap Jaisa.mp3",
+            "original_name": "Koi Aap Jaisa",
+            "artists_name": [
+                "Jayesh Gandhi",
+                "Kunal Ganjawala",
+                "Madhushree"
+            ],
+            "album": "Vaah! Life Ho Toh Aisi!",
+            "year": "2005"
+        },
+        {
+            "title": "J1 - Jannatein Kahan.mp3",
+            "original_name": "Jannatein Kahan",
+            "artists_name": [
+                "Nikhil D'Souza",
+                "Pritam Chakraborty"
+            ],
+            "album": "Jannat 2",
+            "year": "2012"
+        },
+        {
+            "title": "ZNMD - Ik Junoon (Paint It Red).mp3",
+            "original_name": "Ik Junoon (Paint It Red)",
+            "artists_name": [
+                "Alyssa Mendonsa",
+                "Ehsaan Noorani",
+                "Gulraj Singh",
+                "Vishal Dadlani",
+                "Shankar Mahadevan"
+            ],
+            "album": "Zindagi Na Milegi Dobara",
+            "year": "2011"
+        },
+        {
+            "title": "DORA - Yume Wo Kanaete.mp3",
+            "original_name": "Yume o Kanaete",
+            "artists_name": [
+                "MAO"
+            ],
+            "album": "Doraemon",
+            "year": "1979"
+        },
+        {
+            "title": "PSY - Gangnam Style.mp3",
+            "original_name": "Gangnam Style",
+            "artists_name": [
+                "PSY"
+            ],
+            "album": "Psy 6 (Six Rules), Part 1",
+            "year": "2012"
+        },
+        {
+            "title": "YaDd - Bin Tere Sanam.mp3",
+            "original_name": "Bin Tere Sanam",
+            "artists_name": [
+                "Kavita Krishnamurthy",
+                "Udit Narayan"
+            ],
+            "album": "Yaara Dildara",
+            "year": "1991"
+        },
+        {
+            "title": "BhoB - Labon Ko.mp3",
+            "original_name": "Labon Ko",
+            "artists_name": [
+                "KK"
+            ],
+            "album": "Bhool Bhulaiyaa",
+            "year": "2007"
+        },
+        {
+            "title": "KCK - Uff Teri Adaa.mp3",
+            "original_name": "Uff Teri Adaa",
+            "artists_name": [
+                "Alyssa Mendonsa",
+                "Shankar Mahadevan"
+            ],
+            "album": "Karthik Calling Karthik",
+            "year": "2010"
+        },
+        {
+            "title": "F&F - We Own It.mp3",
+            "original_name": "We Own It",
+            "artists_name": [
+                "2 Chainz",
+                "Wiz Khalifa"
+            ],
+            "album": "Fast & Furious 6",
+            "year": "2013"
+        },
+        {
+            "title": "DlhH - Tere Bin.mp3",
+            "original_name": "Tere Bin",
+            "artists_name": [
+                "Rabbi Shergill"
+            ],
+            "album": "Delhii Heights",
+            "year": "2007"
+        },
+        {
+            "title": "TT - Woh Ajnabee.mp3",
+            "original_name": "Woh Ajnabee",
+            "artists_name": [
+                "Mithoon",
+                "Shilpa Rao"
+            ],
+            "album": "The Train",
+            "year": "2007"
+        },
+        {
+            "title": "KCK - Hey Ya!.mp3",
+            "original_name": "Hey Ya!",
+            "artists_name": [
+                "Clinton Cerejo",
+                "Loy Mendonsa",
+                "Shankar Mahadevan"
+            ],
+            "album": "Karthik Calling Karthik",
+            "year": "2010"
+        },
+        {
+            "title": "TN92 - Ek Nazar Mein Bhi.mp3",
+            "original_name": "Ek Nazar Mein Bhi",
+            "artists_name": [
+                "KK",
+                "Sunidhi Chauhan",
+                "Vishal-Shekhar"
+            ],
+            "album": "Taxi No. 9 2 11: Nau Do Gyarah",
+            "year": "2006"
+        },
+        {
+            "title": "BilS - 12 Saal(Baarah-Saal).mp3",
+            "original_name": "12 Saal",
+            "artists_name": [
+                "Bilal Saeed"
+            ],
+            "album": "Twelve",
+            "year": "2012"
+        },
+        {
+            "title": "CCtC - Tere Naina.mp3",
+            "original_name": "Tere Naina",
+            "artists_name": [
+                "Shankar Mahadevan"
+            ],
+            "album": "Chandni Chowk to China",
+            "year": "2009"
+        },
+        {
+            "title": "TD - Falling.mp3",
+            "original_name": "Falling",
+            "artists_name": [
+                "Trevor Daniel"
+            ],
+            "album": "Nicotine",
+            "year": "2020"
+        },
+        {
+            "title": "FS - Infinity.mp3",
+            "original_name": "Infinity",
+            "artists_name": [
+                "Jaymes Young"
+            ],
+            "album": "Feel Something",
+            "year": "2017"
+        },
+        {
+            "title": "DARR - Jadu Teri Nazar.mp3",
+            "original_name": "Jaadu Teri Nazar",
+            "artists_name": [
+                "Lata Mangeshkar",
+                "Udit Narayan",
+                "Vinod Rathod"
+            ],
+            "album": "Darr",
+            "year": "1993"
+        },
+        {
+            "title": "BAH - Ahista Ahista.mp3",
+            "original_name": "Aahista Aahista",
+            "artists_name": [
+                "Lucky Ali",
+                "Shreya Ghoshal"
+            ],
+            "album": "Bachna Ae Haseeno",
+            "year": "2008"
+        },
+        {
+            "title": "CART - On & On (feat. Daniel Levi) [NCS Release].mp3",
+            "original_name": "On & On",
+            "artists_name": [
+                "Cartoon"
+            ],
+            "album": "On & On",
+            "year": "2015"
+        },
+        {
+            "title": "KcTH - Dil Ding Dang Ding Dole Bole.mp3",
+            "original_name": "Ding Dong",
+            "artists_name": [
+                "Anu Malik",
+                "KK",
+                "Sunidhi Chauhan"
+            ],
+            "album": "Kucch To Hai",
+            "year": "2003"
+        },
+        {
+            "title": "FerP - Fermi Paradox ft. Neoclubber.mp3",
+            "original_name": "Fermi Paradox",
+            "artists_name": [
+                "Serge Nova"
+            ],
+            "album": "Serge Nova",
+            "year": "2020"
+        },
+        {
+            "title": "ShKR - Hips Don't Lie.mp3",
+            "original_name": "Hips Don't Lie",
+            "artists_name": [
+                "Shakira"
+            ],
+            "album": "Oral Fixation Vol. 2",
+            "year": "2005"
+        },
+        {
+            "title": "HerP - Jab Bhi Koi Haseen.mp3",
+            "original_name": "Jab Bhi Koi Haseena",
+            "artists_name": [
+                "Anu Malik",
+                "KK"
+            ],
+            "album": "Hera Pheri",
+            "year": "2000"
+        },
+        {
+            "title": "BohJ - Jaguar (ft Bohemia).mp3",
+            "original_name": "Jaguar",
+            "artists_name": [
+                "Muzical Doctorz Sukhe",
+                "Bohemia"
+            ],
+            "album": "Bohemia",
+            "year": "2015"
+        },
+        {
+            "title": "SarF - Jo Haal Dil Ka.mp3",
+            "original_name": "Jo Haal Dil Ka",
+            "artists_name": [
+                "Alka Yagnik",
+                "Kumar Sanu"
+            ],
+            "album": "Sarfarosh",
+            "year": "1999"
+        },
+        {
+            "title": "AwaP - Mahiya.mp3",
+            "original_name": "Mahiya",
+            "artists_name": [
+                "Suzanne D'Mello"
+            ],
+            "album": "Awarapan",
+            "year": "2007"
+        },
+        {
+            "title": "NokA - Destiny.mp3",
+            "original_name": "Destiny",
+            "artists_name": [
+                "NOKIA"
+            ],
+            "album": "NOKIA",
+            "year": "1994"
+        },
+        {
+            "title": "NokA - soulful.mp3",
+            "original_name": "Soulful",
+            "artists_name": [
+                "NOKIA"
+            ],
+            "album": "NOKIA",
+            "year": "1994"
+        },
+        {
+            "title": "MIA - Paper Planes.mp3",
+            "original_name": "Paper Planes",
+            "artists_name": [
+                "M.I.A."
+            ],
+            "album": "Slumdog Millionaire",
+            "year": "2008"
+        },
+        {
+            "title": "EnrI - Why Not Me.mp3",
+            "original_name": "Why Not Me?",
+            "artists_name": [
+                "Enrique Iglesias"
+            ],
+            "album": "Euphoria",
+            "year": "2010"
+        },
+        {
+            "title": "Veer - Salaam Aaya.mp3",
+            "original_name": "Salaam Aaya",
+            "artists_name": [
+                "Roopkumar Rathod",
+                "Shreya Ghoshal",
+                "Suzanne D'Mello"
+            ],
+            "album": "Veer",
+            "year": "2010"
+        }
+    ]
+}

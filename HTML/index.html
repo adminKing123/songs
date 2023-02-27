@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Songs List</title>
+        <link rel="stylesheet" href="index.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <header>
+            <h2>Harsh Songs</h2>
+        </header>
+        <div class="search-box">
+            <input placeholder="Search"/>
+        </div>
+        <ul class="list" id="songs-list">
+            <!-- <li>
+                <div class="details">
+                    <div class="album">Album (Year)</div>
+                    <div class="title">Song</div>
+                    <div class="artists">Artists</div>
+                </div>
+                <div class="icon-for-details">
+                    <i class="fa fa-info"></i>
+                </div>
+            </li> -->
+        </ul>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 10px; color: white; padding: 0 45px 0 45px;">
+            <div id="total-count"></div>
+            <i class="fa fa-retweet" onclick="fetchSongs()"></i>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

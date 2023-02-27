@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(32, 33, 37);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgb(48, 49, 53);
+    color: white;
+    padding: 20px;
+}
+
+.search-box {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-box input {
+    background-color: rgb(48, 49, 53);
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: rgb(188, 189, 193);
+    padding: 12px 12px 12px 24px;
+    border-radius: 50px;
+    width: 50vw;
+}
+
+.list {
+    color: rgb(188, 189, 193);
+    list-style-type: none;
+    padding: 0;
+    cursor: pointer;
+    /* border: 1px solid red; */
+    height: 70vh;
+    overflow-x: auto;
+}
+
+.list li:nth-child(even) {
+    background-color: rgb(48, 49, 53);
+}
+
+.list li {
+    font-size: 18px;
+    padding: 8px 8px 8px 40px;
+    /*  */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 300ms background-color;
+}
+
+
+.list li .details {
+    width: 85vw;
+    overflow-wrap: break-word;
+}
+
+.list li .details .album {
+    font-size: 12px;
+}
+
+.list li .details .title {
+    margin: 8px 0 2px 0;
+    color: white;
+}
+
+.list li .details .artists {
+    font-size: 12px;
+}
+
+.icon-for-details {
+    color: white;
+    margin-right: 10px;
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-radius: 50px; */
+    width: 25px;
+    height: 25px;
+    opacity: 0;
+    transition: 300ms opacity;
+}
+
+.list li:hover {
+    background-color: rgb(81, 81, 81);
+}
+
+.list li:hover .icon-for-details {
+    opacity: 1;
+}
+
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
